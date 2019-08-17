@@ -1,0 +1,1 @@
+We use tools from statistical physics, population genetics, and computational biology to understand how the growth processes and genome dynamics of individual cells give rise to the collective behavior that we observe at the community level
