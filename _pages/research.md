@@ -9,7 +9,7 @@ title: "Research"
 
 The human gut is home to a diverse microbial community, which performs a number of critical health-related functions. High rates of cell turnover endow these organisms with an enormous potential for rapid evolutionary change: more than a billion new mutations are thought to arise within a single host community every day. Despite the potential importance of these effects, we currently know very little about the evolutionary dynamics that occur within individual species in this community. This robs us of one of our best empirical opportunities to understand how evolution operates in a complex community setting. 
 
-**To bridge this gap, we are developing computational approaches for measuring genetic changes within species in complex metagenomic datasets, and for interpreting these patterns using simple null models from population genetics.** Our focus is on identifying the relevant timescales and population genetic "rules" that govern the evolution of gut bacteria in their native habitat, and in leveraging these empirical constraints to guide further theoretical and experimental efforts. Current topics of interest include: 
+**To bridge this gap, we are developing computational approaches for measuring evolutionary changes within species in complex metagenomic datasets, and for interpreting these patterns using simple null models from population genetics.** Our focus is on identifying the relevant timescales and population genetic "rules" that govern the evolution of gut bacteria in their native habitat, and in leveraging these empirical constraints to guide further theoretical and experimental efforts. Current topics of interest include: 
 
 - How does the gut microbiome respond to antibiotic perturbations at the genetic level? 
 - How relevant are different population genetic forces like natural selection, genetic drift, and horizontal gene transfer within hosts? How do these within-host processes interact with longer-term variation across hosts?
@@ -17,6 +17,8 @@ The human gut is home to a diverse microbial community, which performs a number 
 
 Eco-evolutionary dynamics and genetic diversity in resource competition models
 ------------------------------------------------------------------------------
+
+![image-left](/assets/images/linkage.png)
 
 A major barrier to understanding evolution in microbial communities is that we have few theoretical tools to describe situations where ecology and evolution interact. Traditional ecological theory describes the competition between strains, but the strains themselves are rarely allowed to evolve over time. Conversely, population genetic theory describes the evolution of DNA sequences, but the relevant "populations" must be fixed externally. The interactions between these processes have traditionally been explored in computer simulations, but the vast number of parameters makes it difficult to extrapolate from these individual examples, or to understand how they map on to experiments. To make further progress, it will be critical to develop simpler *effective models* of evolving ecosystems whose limiting behavior can be characterized analytically. 
 
@@ -30,7 +32,7 @@ A major barrier to understanding evolution in microbial communities is that we h
 Fundamental questions in population genetics: selection, linkage, and recombination
 -----------------------------------------------------------------------------------
 
-!(/assets/images/linkage.png)
+![image-left](/assets/images/linkage.png)
 
 In large populations, natural selection can't act on mutations individually, but only on combinations of mutations that happen to be inherited together on the same DNA molecule. This simple fact (known as genetic linkage) creates complex correlations along the genome that are still only partially understood theoretically. This is a major barrier in our ability to interpret data from laboratory evolution experiments and many natural populations. We work on a variety of theoretical problems to understand evolutionary dynamics and DNA sequence variability in the presence of genetic linkage. Current topics include:
 
