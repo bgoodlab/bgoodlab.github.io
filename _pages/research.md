@@ -5,9 +5,9 @@ title: "Research"
 
 ## Evolutionary dynamics in the human gut microbiome
 
-The human gut is home to a diverse microbial community, which performs a number of critical health-related functions. High rates of cell turnover endow these organisms with an enormous potential for rapid evolutionary change: more than a billion new mutations are thought to arise within a single host community every day. Despite the potential importance of these effects, we currently know very little about the evolutionary dynamics that occur within individual species in this community. This robs us of one of our best empirical opportunities to understand how evolution operates in a complex community setting. 
-
 ![image-left](/assets/images/microbiome.png)
+
+The human gut is home to a diverse microbial community, which performs a number of critical health-related functions. High rates of cell turnover endow these organisms with an enormous potential for rapid evolutionary change: more than a billion new mutations are thought to arise within a single host community every day. Despite the potential importance of these effects, we currently know very little about the evolutionary dynamics that occur within individual species in this community. This robs us of one of our best empirical opportunities to understand how evolution operates in a complex community setting. 
 
 **To bridge this gap, we are developing computational approaches for measuring evolutionary changes within species in complex metagenomic datasets, and for interpreting these patterns using simple null models from population genetics.** Our focus is on identifying the relevant timescales and population genetic "rules" that govern the evolution of gut bacteria in their native habitat, and in leveraging these empirical constraints to guide further theoretical and experimental efforts. Current topics of interest include: 
 
@@ -18,9 +18,10 @@ The human gut is home to a diverse microbial community, which performs a number 
 Eco-evolutionary dynamics and genetic diversity in resource competition models
 ------------------------------------------------------------------------------
 
+![image-left](/assets/images/ecoevo.png)
+
 A major barrier to understanding evolution in microbial communities is that we have few theoretical tools to describe situations where ecology and evolution interact. Traditional ecological theory describes the competition between strains, but the strains themselves are rarely allowed to evolve over time. Conversely, population genetic theory describes the evolution of DNA sequences, but the relevant "populations" must be fixed externally. The interactions between these processes have traditionally been explored in computer simulations, but the vast number of parameters makes it difficult to extrapolate from these individual examples, or to understand how they map on to experiments. To make further progress, it will be critical to develop simpler *effective models* of evolving ecosystems whose limiting behavior can be characterized analytically. 
 
-![image-left](/assets/images/ecoevo.png)
 
 **In pursuit of this goal, we are developing new theory for predicting the coupled ecological and evolutionary dynamics that emerge in simple models of resource competition.** We are particularly interested in the non-equilibrium dynamics that are encoded in the statistics of sampled DNA sequences, and in our ability to extrapolate to the high-dimensional ecosystems that are often encountered in nature. Current topics of interest include:
 
@@ -32,6 +33,8 @@ A major barrier to understanding evolution in microbial communities is that we h
 Fundamental questions in population genetics: selection, linkage, and recombination
 -----------------------------------------------------------------------------------
 
+![image-left](/assets/images/linkage.png)
+
 In large populations, natural selection can't act on mutations individually, but only on combinations of mutations that happen to be inherited together on the same DNA molecule. This simple fact (known as genetic linkage) creates complex correlations along the genome that are still only partially understood theoretically. This is a major barrier in our ability to interpret data from laboratory evolution experiments and many natural populations. We work on a variety of theoretical problems to understand evolutionary dynamics and DNA sequence variability in the presence of genetic linkage. Current topics include:
 
 - Evolution of mutation rates and other ``evolvability'' modifiers 
@@ -39,4 +42,3 @@ In large populations, natural selection can't act on mutations individually, but
 - How does the chunk-like nature of bacterial recombination influence expected patterns of genetic diversity? 
 - Pairwise and higher-order correlations between mutations ("linkage disequilibrium") 
 
-![image-left](/assets/images/linkage.png)
