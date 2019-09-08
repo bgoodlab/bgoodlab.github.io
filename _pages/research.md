@@ -35,9 +35,9 @@ Fundamental questions in population genetics: selection, linkage, and recombinat
 
 ![image-left](/assets/images/linkage2.png)
 
-In large populations, natural selection can't act on mutations individually, but only on combinations of mutations that happen to be inherited together on the same DNA molecule. This simple fact (known as genetic linkage) creates complex correlations along the genome that are still only partially understood theoretically. This is a major barrier in our ability to interpret data from laboratory evolution experiments and many natural populations. We work on a variety of theoretical problems to understand evolutionary dynamics and DNA sequence variability in the presence of genetic linkage. Current topics include:
+In large populations, natural selection can't act on mutations individually, but only on combinations of mutations that happen to be inherited together on the same DNA molecule. This simple fact (known as genetic linkage) creates complex correlations along the genome that are still only partially understood theoretically. This is a major barrier in our ability to interpret data from laboratory evolution experiments and many natural populations. **We work on a variety of theoretical problems to understand evolutionary dynamics and DNA sequence variability in the presence of genetic linkage.** Current topics include:
 
-- Evolution of mutation rates and other ``evolvability'' modifiers 
+- Evolution of mutation rates and other "evolvability" modifiers 
 - How do genetically diverse populations navigate rugged fitness landscapes? 
 - How does the chunk-like nature of bacterial recombination influence expected patterns of genetic diversity? 
 - Pairwise and higher-order correlations between mutations ("linkage disequilibrium") 
