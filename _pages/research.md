@@ -5,7 +5,9 @@ title: "Research"
 
 ## Evolutionary dynamics in the human gut microbiome
 
-The human gut is home to a diverse microbial community, which performs a number of critical health-related functions. The high rates of turnover endow these organisms with an enormous potential for rapid evolutionary change: more than a billion new mutations are thought to arise within a single host community every day. Despite the potential importance of these effects, we currently know very little about the evolutionary dynamics that occur within individual species in this community. This robs us of one of our best empirical opportunities to understand how evolution operates in a complex community setting. 
+![image-left](/assets/images/microbiome.png)
+
+The human gut is home to a diverse microbial community, which performs a number of critical health-related functions. High rates of cell turnover endow these organisms with an enormous potential for rapid evolutionary change: more than a billion new mutations are thought to arise within a single host community every day. Despite the potential importance of these effects, we currently know very little about the evolutionary dynamics that occur within individual species in this community. This robs us of one of our best empirical opportunities to understand how evolution operates in a complex community setting. 
 
 **To bridge this gap, we are developing computational approaches for measuring genetic changes within species in complex metagenomic datasets, and for interpreting these patterns using simple null models from population genetics.** Our focus is on identifying the relevant timescales and population genetic "rules" that govern the evolution of gut bacteria in their native habitat, and in leveraging these empirical constraints to guide further theoretical and experimental efforts. Current topics of interest include: 
 
