@@ -9,7 +9,7 @@ classes: wide
 Assistant Professor of Applied Physics<br/>
 Stanford University<br/>
 S231A Clark Center <br/>
-bhgood@stanford.edu <br/>
+bhgood@stanford.edu | 650-497-2575 <br/>
 <a href="/assets/pdfs/bgood_cv_091519.pdf">Curriculum vitae</a><br/>
 <br/>
 <br/>
