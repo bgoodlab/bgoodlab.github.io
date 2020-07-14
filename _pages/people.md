@@ -19,7 +19,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 **Daniel Wong** <br/>
 *Graduate student in Applied Physics*<br/>
 <small>Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data. <br/>
-dpwong [at] stanford.edu<br/></small>
+*dpwong [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 ![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
@@ -51,9 +51,9 @@ dpwong [at] stanford.edu<br/></small>
 <br/>
 <br/>
 ![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
-**Katherine Xue** br/>
+**Katherine Xue** <br/>
 *JSMF Postdoctoral Fellow, Relman and Petrov labs*<br/>
-<small>Katherine is collaborating with the Good lab to investigate within-host evolution and household transmission in the human gut microbiome.
+<small>Katherine is collaborating with the Good lab to investigate within-host evolution and household transmission in the human gut microbiome.<br/>
 *kxue [at] stanford.edu* <br/></small>
 
 <!--<br/>
