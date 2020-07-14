@@ -27,8 +27,6 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *Graduate student in Applied Physics*<br/>
 <small>Zhiru received his B.S. in Engineering Physics and Mathematics & Computer Science from UIUC in 2019. He is currently investigating the population genetics of ongoing bacterial recombination using metagenomic data from the human gut microbiome.<br/>
 *zhiru [at] stanford.edu*<br/></small>
-
-<br/>
 <br/>
 ![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
