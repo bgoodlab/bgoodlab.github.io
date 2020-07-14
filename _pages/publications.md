@@ -6,7 +6,7 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
-1. Roodgar, M.\*,  **B. H. Good\*†**,  N.R. Garud, S. Martis, M. Avula, W. Zhou, S. Lancaster, H. Lee, A. Babveyh, S. Nesamoney, K. S. Pollard,  and M. P. Snyder. Longitudinal linked read sequencing reveals ecological and evolutionary responses of a human gut microbiome during antibiotic treatment. <a href="https://www.biorxiv.org/content/10.1101/2019.12.21.886093v1"> biorXiv</a> (2019).
+1. Roodgar, M.\*,  **B. H. Good\*†**,  N.R. Garud, S. Martis, M. Avula, W. Zhou, S. Lancaster, H. Lee, A. Babveyh, S. Nesamoney, K. S. Pollard†,  and M. P. Snyder†. Longitudinal linked read sequencing reveals ecological and evolutionary responses of a human gut microbiome during antibiotic treatment. <a href="https://www.biorxiv.org/content/10.1101/2019.12.21.886093v1"> biorXiv</a> (2019).
    
 1. Garud, N. R.\*†, **B. H. Good\*†**, O. Hallatschek, and K. S. Pollard. Evolutionary dynamics of bacteria in the gut microbiome within and across hosts. *PLoS Biology* 17(1):e3000102 (2019).<br/><br/>
 <a href="https://journals.plos.org/plosbiology/article/authors?id=10.1371/journal.pbio.3000126">See Primer article by I. Gordo.</a>
