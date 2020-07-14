@@ -29,6 +29,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *zhiru [at] stanford.edu*<br/></small>
 <br/>
 <br/>
+<br/>
 ![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
 *Undergraduate SURF Fellow*<br/>
