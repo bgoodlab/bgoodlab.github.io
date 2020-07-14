@@ -15,34 +15,34 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 <br/>
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/dwong_photo.jpg){: .align-left}{: .align-left}
 **Daniel Wong** <br/>
 *Graduate student in Applied Physics*<br/>
-<small>Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data. </small><br/>
-dpwong [at] stanford.edu<br/>
+<small>Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data. <br/>
+dpwong [at] stanford.edu<br/></small>
 <br/>
 <br/>
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
 **Zhiru Liu** <br/>
 *Graduate student in Applied Physics*<br/>
-Zhiru received his B.S. in Engineering Physics and Mathematics & Computer Science from UIUC in 2019. He is currently investigating the population genetics of ongoing bacterial recombination using metagenomic data from the human gut microbiome.<br/>
-*zhiru [at] stanford.edu*<br/>
+<small>Zhiru received his B.S. in Engineering Physics and Mathematics & Computer Science from UIUC in 2019. He is currently investigating the population genetics of ongoing bacterial recombination using metagenomic data from the human gut microbiome.<br/>
+*zhiru [at] stanford.edu*<br/></small>
 
 <br/>
 <br/>
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
 *Undergraduate SURF Fellow*</br>
-Liana is a rising senior at Caltech majoring in Bioengineering. She is currently developing tools for tracking within-host evolution and strain turnover in the rumen microbiome.<br/>
-*lmerk [at] caltech.edu*<br/>
+<small>Liana is a rising senior at Caltech majoring in Bioengineering. She is currently developing tools for tracking within-host evolution and strain turnover in the rumen microbiome.<br/>
+*lmerk [at] caltech.edu*<br/></small>
 
 <br/>
 <br/>
 ![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
 **Layton Rosenfeld** <br/>
 *Undergraduate Bio-X Fellow*<br/>
-Layton is a rising sophomore at Stanford interested in Computational Biology. She is currently investigating the links between short-term evolution and community structure using metagenomic data from the human gut microbiome. <br/>
-*laytonr [at] stanford.edu*<br/>
+<small>Layton is a rising sophomore at Stanford interested in Computational Biology. She is currently investigating the links between short-term evolution and community structure using metagenomic data from the human gut microbiome. <br/>
+*laytonr [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 
@@ -50,11 +50,11 @@ Layton is a rising sophomore at Stanford interested in Computational Biology. Sh
 
 <br/>
 <br/>
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
 **Katherine Xue** br/>
 *JSMF Postdoctoral Fellow, Relman and Petrov labs*<br/>
-Katherine is collaborating with the Good lab to investigate within-host evolution and household transmission in the human gut microbiome.
-*kxue [at] stanford.edu* <br/>
+<small>Katherine is collaborating with the Good lab to investigate within-host evolution and household transmission in the human gut microbiome.
+*kxue [at] stanford.edu* <br/></small>
 
 <!--<br/>
 %<br/>
