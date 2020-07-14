@@ -32,7 +32,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 ![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
-*Undergraduate SURF Fellow*</br>
+*Undergraduate SURF Fellow*<br/>
 <small>Liana is a rising senior at Caltech majoring in Bioengineering. She is currently developing tools for tracking within-host evolution and strain turnover in the rumen microbiome.<br/>
 *lmerk [at] caltech.edu*<br/></small>
 
