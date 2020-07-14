@@ -13,10 +13,12 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <a href="/assets/pdfs/bgood_cv_07132020.pdf">Curriculum vitae</a><br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
 **Daniel Wong** <br/>
 *Graduate student in Applied Physics*<br/>
-Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data. <br/>
+<small>Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data. </small><br/>
 dpwong [at] stanford.edu<br/>
 <br/>
 <br/>
@@ -41,6 +43,8 @@ Liana is a rising senior at Caltech majoring in Bioengineering. She is currently
 *Undergraduate Bio-X Fellow*<br/>
 Layton is a rising sophomore at Stanford interested in Computational Biology. She is currently investigating the links between short-term evolution and community structure using metagenomic data from the human gut microbiome. <br/>
 *laytonr [at] stanford.edu*<br/>
+<br/>
+<br/>
 
 # Friends of the lab
 
