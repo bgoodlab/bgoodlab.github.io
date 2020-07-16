@@ -40,7 +40,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 <br/>
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/lrosenfeld_photo.jpg){: .align-left}{: .align-left}
 **Layton Rosenfeld** <br/>
 *Undergraduate Bio-X Fellow*<br/>
 <small>Layton is a rising sophomore at Stanford interested in Computational Biology. She is currently investigating the links between short-term evolution and community structure using metagenomic data from the human gut microbiome. <br/>
