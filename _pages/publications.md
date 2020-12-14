@@ -6,7 +6,7 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
-1. B.H. Good†,  Linkage disequilibrium between rare mutations. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420042v1"> biorXiv</a> (2020).
+1. B.H. Good,  Linkage disequilibrium between rare mutations. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420042v1"> biorXiv</a> (2020).
 
 1. Vasquez, K.S., L. Willis, N. Cira, K.M. Ng, M.F. Pedro, A. Aranda-Díaz, M. Ranjendram, F.B. Yu, S.K. Higginbottom, N. Neff, G. Sherlock, K.B. Xavier, S. Quake, J. Sonnenburg, **B.H. Good†**, and K.C. Huang†. Quantifying the interplay between rapid bacterial evolution within the mouse intestine and transmission between hosts. <a href="https://www.biorxiv.org/content/10.1101/2020.12.04.412072v1"> biorXiv</a> (2020).
 
