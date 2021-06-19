@@ -85,8 +85,8 @@ James received his B.S. in International Development, Mathematics, and Physics a
 *kxue [at] stanford.edu* <br/></small>
 
 # Alumni
-Liana Merk, Undergraduate SURF Fellow. 
-Layton Rosenfeld, Undergraduate Bio-X Fellow. 
+Liana Merk, Undergraduate SURF Fellow. <br/>
+Layton Rosenfeld, Undergraduate Bio-X Fellow.<br/> 
 
 <!--<br/>
 <br/>
