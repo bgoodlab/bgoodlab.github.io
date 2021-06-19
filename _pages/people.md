@@ -84,6 +84,10 @@ James received his B.S. in International Development, Mathematics, and Physics a
 *JSMF Postdoctoral Fellow, Relman and Petrov labs*<br/>
 <small>Katherine is collaborating with the Good lab to investigate within-host evolution and household transmission in the human gut microbiome.<br/>
 *kxue [at] stanford.edu* <br/></small>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Alumni
 Liana Merk, Undergraduate SURF Fellow, Summer 2020. <br/>
