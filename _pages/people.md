@@ -54,12 +54,10 @@ Olivia is a graduate student in the Good and Petrov labs. She received her Bache
 <small>
 James received his B.S. in International Development, Mathematics, and Physics and M.S. in Physics from Tulane University in 2018. He is currently investigating how large microbial populations can select for mutations that alter their local fitness landscape. 
 <br/>
-* jferrare [at] stanford.edu *<br/></small>
+*jferrare [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 
-<br/>
-<br/>
 ![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
 **Caroline Van** <br/>
 *Undergraduate Bio-X Fellow*<br/>
@@ -68,13 +66,13 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 <br/>
 
-<br/>
-<br/>
 ![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
 **Serena Debesai** <br/>
 *Undergraduate student in Physics*<br/>
 <small>Serena is a rising senior studying Math and Physics at Stanford. She is currently studying how migration and environmental variability maintain ecological diversity in  metapopulations.<br/>
-*cmvan [at] stanford.edu*<br/></small>
+*sdebesai [at] stanford.edu*<br/></small>
+<br/>
+<br/>
 <br/>
 <br/>
 
