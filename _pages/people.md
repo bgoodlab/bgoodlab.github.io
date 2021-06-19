@@ -29,6 +29,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *zhiru [at] stanford.edu*<br/></small>
 <br/>
 <br/>
+
 ![image-left](/assets/images/alyulina_photo.jpg){: .align-left}{: .align-left}
 **Anastasia Lyulina** <br/>
 *Graduate student in Biology*<br/>
@@ -52,7 +53,7 @@ Olivia is a graduate student in the Good and Petrov labs. She received her Bache
 **James Ferrare** <br/>
 *Graduate student in Biophysics*<br/>
 <small>
-James received his B.S. in International Development, Mathematics, and Physics and M.S. in Physics from Tulane University in 2018. He is currently investigating how large microbial populations can select for mutations that alter their local fitness landscape. 
+James received his B.S. in International Development, Mathematics, and Physics and M.S. in Physics from Tulane University in 2018. He is currently investigating how large microbial populations select for mutations that alter their local fitness landscape. 
 <br/>
 *jferrare [at] stanford.edu*<br/></small>
 <br/>
