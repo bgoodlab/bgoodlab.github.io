@@ -59,7 +59,7 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 <br/>
 
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/cvan_photo.jpg){: .align-left}{: .align-left}
 **Caroline Van** <br/>
 *Undergraduate Bio-X Fellow*<br/>
 <small>Caroline is a rising sophomore at Stanford interested in Biomedical Computation. She is currently investigating the strain-level dynamics that take placing during fecal microbiome transplants.<br/>
@@ -67,7 +67,7 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 <br/>
 
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
 **Serena Debesai** <br/>
 *Undergraduate student in Physics*<br/>
 <small>Serena is a rising senior studying Math and Physics at Stanford. She is currently studying how migration and environmental variability maintain ecological diversity in  metapopulations.<br/>
