@@ -6,9 +6,11 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
-1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. <a href="https:////www.biorxiv.org/content/10.1101/10.1101/2021.06.28.450258"> biorXiv</a> (2021).
+1. Ghosh, O.M. and B.H. Good. Emergent evolutionary forces in spatial models of luminal growth in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v1"> biorXiv</a> (2021).
 
-1. P.Y. Ho, **B.H. Good**, and K.C. Huang. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. <a href="https:////www.biorxiv.org/content//10.1101/2021.05.13.444061v1"> biorXiv</a> (2021).
+1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. <a href="https:////www.biorxiv.org/content/10.1101/2021.06.28.450258"> biorXiv</a> (2021).
+
+1. P.Y. Ho, **B.H. Good**, and K.C. Huang. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. <a href="https:////www.biorxiv.org/content/10.1101/2021.05.13.444061v1"> biorXiv</a> (2021).
 
 1. B.H. Good,  Linkage disequilibrium between rare mutations. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420042v1"> biorXiv</a> (2020).
 
