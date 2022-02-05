@@ -6,7 +6,9 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
-1. Ghosh, O.M. and B.H. Good. Emergent evolutionary forces in spatial models of luminal growth in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v1"> biorXiv</a> (2021).
+1. BH Good†, LB Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
+
+1. Ghosh, O.M. and B.H. Good. Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v2"> biorXiv</a> (2021).
 
 1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. <a href="https:////www.biorxiv.org/content/10.1101/2021.06.28.450258"> biorXiv</a> (2021).
 
@@ -14,7 +16,7 @@ classes: wide
 
 1. B.H. Good,  Linkage disequilibrium between rare mutations. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420042v1"> biorXiv</a> (2020).
 
-1. Vasquez, K.S., L. Willis, N. Cira, K.M. Ng, M.F. Pedro, A. Aranda-Díaz, M. Ranjendram, F.B. Yu, S.K. Higginbottom, N. Neff, G. Sherlock, K.B. Xavier, S. Quake, J. Sonnenburg, **B.H. Good†**, and K.C. Huang†. Quantifying the interplay between rapid bacterial evolution within the mouse intestine and transmission between hosts. *Cell Host & Microbe* 29(9): 1454-1468.e4 (2021).
+1. Vasquez, K.S., L. Willis, N. Cira, K.M. Ng, M.F. Pedro, A. Aranda-Díaz, M. Ranjendram, F.B. Yu, S.K. Higginbottom, N. Neff, G. Sherlock, K.B. Xavier, S. Quake, J. Sonnenburg, **B.H. Good†**, and K.C. Huang†. Quantifying rapid bacterial evolution and transmission within the mouse intestine. *Cell Host & Microbe* 29(9): 1454-1468.e4 (2021).
 
 1. Roodgar, M.\*,  **B. H. Good\*†**,  N.R. Garud, S. Martis, M. Avula, W. Zhou, S. Lancaster, H. Lee, A. Babveyh, S. Nesamoney, K. S. Pollard†,  and M. P. Snyder†. Longitudinal linked read sequencing reveals ecological and evolutionary responses of a human gut microbiome during antibiotic treatment. *Genome Research* 31: 1433-1446 (2021).
    
