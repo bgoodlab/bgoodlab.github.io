@@ -6,7 +6,9 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
-1. BH Good†, LB Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
+1. Ascensao, J.A., K.M. Wetmore, **B.H. Good**, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1"> biorXiv</a> (2022).
+
+1. B.H. Good†, L.B. Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
 
 1. Ghosh, O.M. and B.H. Good. Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v2"> biorXiv</a> (2021).
 
