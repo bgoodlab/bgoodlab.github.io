@@ -60,7 +60,7 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 
 
-![image-left](/assets/images/swalton_photo.png){: .align-left}{: .align-left}
+![image-left](/assets/images/swalton_photo.jpg){: .align-left}{: .align-left}
 **Sophie Walton** <br/>
 *Graduate student in Biophysics*<br/>
 <small>
