@@ -60,11 +60,11 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 
 
-![image-left](/assets/images/jferrare_photo.png){: .align-left}{: .align-left}
+![image-left](/assets/images/swalton_photo.png){: .align-left}{: .align-left}
 **Sophie Walton** <br/>
 *Graduate student in Biophysics*<br/>
 <small>
-Sophie is a graduate student in the Good and Petrov labs. Sophie received her B.S. in Bioengineering with a minor in Information and Data Science from Caltech in 2020. She is currently developing methods for measuring ecological and evolutionary dynamics in longitudinally sampled metagenomes from the rumen and the human gut. 
+Sophie is a graduate student in the Good and Petrov labs. She received her B.S. in Bioengineering with a minor in Information and Data Science from Caltech in 2020. Sophie is currently developing methods for measuring ecological and evolutionary dynamics in longitudinally sampled metagenomes from the rumen microbiome and the human gut. 
 <br/>
 *swalton [at] stanford.edu*<br/></small>
 <br/>
