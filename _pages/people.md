@@ -59,10 +59,21 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 <br/>
 
+
+![image-left](/assets/images/jferrare_photo.png){: .align-left}{: .align-left}
+**Sophie Walton** <br/>
+*Graduate student in Biophysics*<br/>
+<small>
+Sophie is a graduate student in the Good and Petrov labs. Sophie received her B.S. in Bioengineering with a minor in Information and Data Science from Caltech in 2020. She is currently developing methods for measuring ecological and evolutionary dynamics in longitudinally sampled metagenomes from the rumen and the human gut. 
+<br/>
+*swalton [at] stanford.edu*<br/></small>
+<br/>
+<br/>
+
 ![image-left](/assets/images/cvan_photo.jpg){: .align-left}{: .align-left}
 **Caroline Van** <br/>
 *Undergraduate Bio-X Fellow*<br/>
-<small>Caroline is a rising sophomore at Stanford interested in Biomedical Computation. She is currently investigating the strain-level dynamics that take placing during fecal microbiome transplants.<br/>
+<small>Caroline is a sophomore at Stanford interested in Biomedical Computation. She is currently investigating the strain-level dynamics that take placing during fecal microbiome transplants.<br/>
 *cmvan [at] stanford.edu*<br/></small>
 <br/>
 <br/>

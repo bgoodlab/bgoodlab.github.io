@@ -12,11 +12,11 @@ classes: wide
 
 1. Ghosh, O.M. and B.H. Good. Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v2"> biorXiv</a> (2021).
 
-1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. <a href="https:////www.biorxiv.org/content/10.1101/2021.06.28.450258"> biorXiv</a> (2021).
+1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. *Genetics* in press (2022).
 
-1. P.Y. Ho, **B.H. Good**, and K.C. Huang. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. <a href="https:////www.biorxiv.org/content/10.1101/2021.05.13.444061v1"> biorXiv</a> (2021).
+1. P.Y. Ho, **B.H. Good**, and K.C. Huang. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. *eLife* in press (2022).
 
-1. B.H. Good,  Linkage disequilibrium between rare mutations. <a href="https://www.biorxiv.org/content/10.1101/2020.12.10.420042v1"> biorXiv</a> (2020).
+1. B.H. Good,  Linkage disequilibrium between rare mutations. *Genetics* in press (2022).
 
 1. Vasquez, K.S., L. Willis, N. Cira, K.M. Ng, M.F. Pedro, A. Aranda-Díaz, M. Ranjendram, F.B. Yu, S.K. Higginbottom, N. Neff, G. Sherlock, K.B. Xavier, S. Quake, J. Sonnenburg, **B.H. Good†**, and K.C. Huang†. Quantifying rapid bacterial evolution and transmission within the mouse intestine. *Cell Host & Microbe* 29(9): 1454-1468.e4 (2021).
 
