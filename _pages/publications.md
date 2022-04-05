@@ -16,7 +16,7 @@ classes: wide
 
 1. P.Y. Ho, **B.H. Good†**, and K.C. Huang†. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. *eLife* in press (2022).
 
-1. B.H. Good,  Linkage disequilibrium between rare mutations. *Genetics* in press (2022).
+1. B.H. Good,  Linkage disequilibrium between rare mutations. *Genetics* 220(4): iyac004  (2022).
 
 1. Vasquez, K.S., L. Willis, N. Cira, K.M. Ng, M.F. Pedro, A. Aranda-Díaz, M. Ranjendram, F.B. Yu, S.K. Higginbottom, N. Neff, G. Sherlock, K.B. Xavier, S. Quake, J. Sonnenburg, **B.H. Good†**, and K.C. Huang†. Quantifying rapid bacterial evolution and transmission within the mouse intestine. *Cell Host & Microbe* 29(9): 1454-1468.e4 (2021).
 
