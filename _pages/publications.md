@@ -14,7 +14,7 @@ classes: wide
 
 1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. *Genetics* in press (2022).
 
-1. P.Y. Ho, **B.H. Good†**, and K.C. Huang†. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. *eLife* in press (2022).
+1. P.Y. Ho, **B.H. Good†**, and K.C. Huang†. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. *eLife* 11:e75168 (2022).
 
 1. B.H. Good,  Linkage disequilibrium between rare mutations. *Genetics* 220(4): iyac004  (2022).
 
