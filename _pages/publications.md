@@ -10,7 +10,7 @@ classes: wide
 
 1. B.H. Good†, L.B. Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
 
-1. Ghosh, O.M. and B.H. Good. Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v2"> biorXiv</a> (2021).
+1. Ghosh, O.M. and B.H. Good.  <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v2">Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota.</a> *PNAS* in press (2022).
 
 1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. *Genetics* in press (2022).
 
