@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
+1. Wong, D.P.G.H. and B.H. Good. Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573v1.full">biorXiv</a> (2022).
+
 1. Ascensao, J.A., K.M. Wetmore, **B.H. Good**, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1"> biorXiv</a> (2022).
 
 1. B.H. Good†, L.B. Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
