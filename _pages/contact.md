@@ -5,7 +5,7 @@ title: "Contact"
 
 <br/>
 Benjamin H Good  
-Clark Center S231  
+Clark Center S244  
 318 Campus Drive  
 Stanford, California 94305  
 *bhgood@stanford.edu*

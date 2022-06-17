@@ -8,9 +8,9 @@ classes: wide
 **Benjamin H Good, PhD** <br/>
 Assistant Professor of Applied Physics<br/>
 Stanford University<br/>
-S231A Clark Center <br/>
+S244 Clark Center <br/>
 bhgood@stanford.edu | 650-497-2575 <br/>
-<a href="/assets/pdfs/bgood_cv_07012021.pdf">Curriculum vitae</a><br/>
+<a href="/assets/pdfs/bgood_cv_061722.pdf">Curriculum vitae</a><br/>
 <br/>
 <br/>
 <br/>
