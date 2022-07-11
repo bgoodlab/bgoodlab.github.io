@@ -8,11 +8,11 @@ classes: wide
 
 1. Wong, D.P.G.H. and B.H. Good. Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573v1.full">biorXiv</a> (2022).
 
-1. Ascensao, J.A., K.M. Wetmore, **B.H. Good**, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1"> biorXiv</a> (2022).
-
 1. B.H. Good†, L.B. Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
 
-1. Ghosh, O.M. and B.H. Good.  <a href="https://www.biorxiv.org/content/10.1101/2021.07.15.452569v2">Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota.</a> *PNAS* in press (2022).
+1. Ascensao, J.A., K.M. Wetmore, **B.H. Good**, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1"> biorXiv</a> (2022).
+
+1. Ghosh, O.M. and B.H. Good.  Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. *PNAS*  119(28): e2114931119 (2022).
 
 1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. *Genetics* in press (2022).
 
