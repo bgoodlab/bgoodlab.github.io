@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
+1. Liu, Z. and B.H. Good. Dynamics of bacterial recombination in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2022.08.24.505183v1">biorXiv</a> (2022).
+
 1. Wong, D.P.G.H. and B.H. Good. Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573v1.full">biorXiv</a> (2022).
 
 1. B.H. Good†, L.B. Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
