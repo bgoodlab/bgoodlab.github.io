@@ -6,13 +6,17 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors
 
+1. B.H. Good. Limited codiversification of the gut microbiota with humans. <a href="https://doi.org/10.1101/2022.10.27.514143"> biorXiv</a> (2022).
+
 1. Liu, Z. and B.H. Good. Dynamics of bacterial recombination in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2022.08.24.505183v1">biorXiv</a> (2022).
 
 1. Wong, D.P.G.H. and B.H. Good. Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573v1.full">biorXiv</a> (2022).
 
 1. B.H. Good†, L.B. Rosenfeld. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv</a> (2022). 
 
-1. Ascensao, J.A., K.M. Wetmore, **B.H. Good**, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1"> biorXiv</a> (2022).
+1. Dapa, T\*, D.P.G.H.Wong\*, K.S. Vasquez, K.B. Xavier†, K.C. Huang†, and B.H. Good†. Within-host evolution of the gut microbiome.  *Current Opinions in Microbiology* *in press* (2022). 
+
+1. Ascensao, J.A., K.M. Wetmore, **B.H. Good**, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. *Nature Communications* <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1">in press</a> (2022).
 
 1. Ghosh, O.M. and B.H. Good.  Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. *PNAS*  119(28): e2114931119 (2022).
 
