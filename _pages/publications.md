@@ -16,7 +16,7 @@ classes: wide
 
 1. Ghosh, O.M. and B.H. Good.  Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. *PNAS*  119(28): e2114931119 (2022).
 
-1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. *Genetics* in press (2022).
+1. Melissa, M.J., **B.H. Good**, D.S. Fisher, and M.M. Desai, Population genetics of polymorphism and divergence in rapidly evolving populations. *Genetics* 221(4): iyac053 (2022).
 
 1. P.Y. Ho, **B.H. Good†**, and K.C. Huang†. Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. *eLife* 11:e75168 (2022).
 
