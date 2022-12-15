@@ -15,6 +15,13 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 <br/>
+![image-left](/assets/images/jglopez.jpg){: .align-left}{: .align-left}
+**Jaime Lopez** <br/>
+*Postdoctoral Fellow*<br/>
+<small>Jaime is a postdoctoral fellow in the Good and Huang Labs. He carried out his PhD with Ned Wingreen and Mohammad Donia at Princeton, where he studied interactions between microbial communities and the chemical environments they inhabit. Jaime’s current research focuses on the ecological and evolutionary dynamics of bacteriophage in the human gut microbiota.<br/>
+*jglopez [at] stanford.edu*<br/></small>
+<br/>
+<br/>
 ![image-left](/assets/images/dwong_photo.png){: .align-left}{: .align-left}
 **Daniel Wong** <br/>
 *Graduate student in Applied Physics*<br/>
@@ -70,18 +77,11 @@ Sophie is a graduate student in the Good and Petrov labs. She received her B.S. 
 <br/>
 <br/>
 
-![image-left](/assets/images/cvan_photo.jpg){: .align-left}{: .align-left}
-**Caroline Van** <br/>
-*Undergraduate Bio-X Fellow*<br/>
-<small>Caroline is a sophomore at Stanford interested in Biomedical Computation. She is currently investigating the strain-level dynamics that take placing during fecal microbiome transplants.<br/>
-*cmvan [at] stanford.edu*<br/></small>
-<br/>
-<br/>
 
 ![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
 **Serena Debesai** <br/>
 *Undergraduate student in Physics*<br/>
-<small>Serena is a rising senior studying Math and Physics at Stanford. She is currently studying how migration and environmental variability maintain ecological diversity in  metapopulations.<br/>
+<small>Serena is a senior studying Math and Physics at Stanford. She is currently studying how migration and environmental variability maintain ecological diversity in  metapopulations.<br/>
 *sdebesai [at] stanford.edu*<br/></small>
 <br/>
 <br/>
@@ -101,6 +101,7 @@ Sophie is a graduate student in the Good and Petrov labs. She received her B.S. 
 <br/>
 
 # Alumni
+Caroline Van, Undergraduate Bio-X Fellow, Summer 2021.<br/>
 Liana Merk, Undergraduate SURF Fellow, Summer 2020. <br/>
 Layton Rosenfeld, Undergraduate Bio-X Fellow, Summer 2020.<br/> 
 
@@ -121,6 +122,14 @@ Layton Rosenfeld, Undergraduate Bio-X Fellow, Summer 2020.<br/>
 *Undergraduate Bio-X Fellow*<br/>
 <small>Layton is a rising sophomore at Stanford interested in Computational Biology. She is currently investigating the links between short-term evolution and community structure using metagenomic data from the human gut microbiome. <br/>
 *laytonr [at] stanford.edu*<br/></small>
+<br/>
+<br/>
+
+![image-left](/assets/images/cvan_photo.jpg){: .align-left}{: .align-left}
+**Caroline Van** <br/>
+*Undergraduate Bio-X Fellow*<br/>
+<small>Caroline is a sophomore at Stanford interested in Biomedical Computation. She is currently investigating the strain-level dynamics that take placing during fecal microbiome transplants.<br/>
+*cmvan [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 
