@@ -14,7 +14,7 @@ classes: wide
 
 1. B.H. Good†, L.B. Rosenfeld☯. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv 2022.01.26.477953</a> (2022). 
 
-1. Dapa, T\*, D.P.G.H.Wong\*, K.S. Vasquez, K.B. Xavier†, K.C. Huang†, and B.H. Good†. Within-host evolution of the gut microbiome.  *Current Opinions in Microbiology* *in press* (2022). 
+1. Dapa, T\*, D.P.G.H.Wong\*, K.S. Vasquez, K.B. Xavier†, K.C. Huang†, and B.H. Good†. Within-host evolution of the gut microbiome.  *Current Opinion in Microbiology* 71:102258 (2023). 
 
 1. Ascensao, J.A., K.M. Wetmore, B.H. Good, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. *Nature Communications* <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1">in press</a> (2022).
 
@@ -33,7 +33,7 @@ classes: wide
 1. Garud, N. R.\*†, B. H. Good\*†, O. Hallatschek, and K. S. Pollard. Evolutionary dynamics of bacteria in the gut microbiome within and across hosts. *PLoS Biology* 17(1):e3000102 (2019).<br/><br/>
 <a href="https://journals.plos.org/plosbiology/article/authors?id=10.1371/journal.pbio.3000126">See Primer article by I. Gordo.</a>
 
-1. Good, B.H.† and O. Hallatschek. Effective models and the search for quantitative principles in microbial evolution. *Current Opinions in Microbiology* 45:203-212 (2018). 
+1. Good, B.H.† and O. Hallatschek. Effective models and the search for quantitative principles in microbial evolution. *Current Opinion in Microbiology* 45:203-212 (2018). 
 
 1. Good, B. H.†, S. Martis, and O. Hallatschek. Adaptation limits ecological diversification and promotes ecological tinkering during the competition for substitutable resources. *PNAS* 115:E10407-E10416 (2018). 
 
