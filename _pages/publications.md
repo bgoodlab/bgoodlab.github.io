@@ -14,9 +14,9 @@ classes: wide
 
 1. B.H. Good†, L.B. Rosenfeld☯. Eco-evolutionary feedbacks in the human gut microbiota. <a href="https://www.biorxiv.org/content/10.1101/2022.01.26.477953v1"> biorXiv 2022.01.26.477953</a> (2022). 
 
-1. Dapa, T\*, D.P.G.H.Wong\*, K.S. Vasquez, K.B. Xavier†, K.C. Huang†, and B.H. Good†. Within-host evolution of the gut microbiome.  *Current Opinion in Microbiology* 71:102258 (2023). 
+1. Dapa, T\*, D.P.G.H.Wong\*, K.S. Vasquez, K.B. Xavier†, K.C. Huang†, and B.H. Good†. Within-host evolution of the gut microbiome.  *Current Opinion in Microbiology* 71: 102258 (2023). 
 
-1. Ascensao, J.A., K.M. Wetmore, B.H. Good, A.P. Arkin, O. Hallatschek. Quantifying the Adaptive Potential of a Nascent Bacterial Community. *Nature Communications* <a href="https://www.biorxiv.org/content/10.1101/2022.02.03.475969v1">in press</a> (2022).
+1. Ascensao, J.A., K.M. Wetmore, B.H. Good, A.P. Arkin, O. Hallatschek. Quantifying the local adaptive landscape of a nascent bacterial community. *Nature Communications* 14: 248  (2023).
 
 1. Ghosh, O.M. and B.H. Good.  Emergent evolutionary forces in spatial models of microbial growth in the human gut microbiota. *PNAS* 119(28): e2114931119 (2022).
 
