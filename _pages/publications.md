@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Ferrare, J.T. and B.H. Good. Evolution of evolvability in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2023.07.12.548717v1">biorXiv 2023.07.12.548717</a> (2023).
+
 1. B.H. Good. Limited codiversification of the gut microbiota with humans. <a href="https://doi.org/10.1101/2022.10.27.514143"> biorXiv 2022.10.27.514143</a> (2022).
 
 1. Liu, Z. and B.H. Good. Dynamics of bacterial recombination in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2022.08.24.505183v1">biorXiv 2022.08.24.505183</a> (2022).
