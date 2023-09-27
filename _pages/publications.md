@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Xue, K.S.†, S.J. Walton,  D.A. Goldman, M.L. Morrison, A.J. Verster, A.B. Parrott, F.B. Yu,  N. Neff,  N.A. Rosenberg,  B.D. Ross,  D.A. Petrov,  K.C. Huang,  B.H. Good†, and D. Relman†. Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation. <a href="https://www.biorxiv.org/content/10.1101/2023.09.26.559480">biorXiv 2023.09.26.559480</a> (2023).
+
 1. Ferrare, J.T. and B.H. Good. Evolution of evolvability in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2023.07.12.548717v1">biorXiv 2023.07.12.548717</a> (2023).
 
 1. B.H. Good. Limited codiversification of the gut microbiota with humans. <a href="https://doi.org/10.1101/2022.10.27.514143"> biorXiv 2022.10.27.514143</a> (2022).
