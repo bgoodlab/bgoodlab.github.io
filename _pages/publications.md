@@ -6,15 +6,17 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. McEnany, J.D. and B.H. Good. Predicting the first steps of evolution in randomly assembled communities. <a href="https://www.biorxiv.org/content/10.1101/2023.12.15.571925"> biorXiv 2023.12.15.571925</a> (2023).
+
 1. Xue, K.S.†, S.J. Walton,  D.A. Goldman, M.L. Morrison, A.J. Verster, A.B. Parrott, F.B. Yu,  N. Neff,  N.A. Rosenberg,  B.D. Ross,  D.A. Petrov,  K.C. Huang,  B.H. Good†, and D. Relman†. Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation. <a href="https://www.biorxiv.org/content/10.1101/2023.09.26.559480">biorXiv 2023.09.26.559480</a> (2023).
 
-1. Ferrare, J.T. and B.H. Good. Evolution of evolvability in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2023.07.12.548717v1">biorXiv 2023.07.12.548717</a> (2023).
+1. Ferrare, J.T. and B.H. Good. Evolution of evolvability in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2023.07.12.548717">biorXiv 2023.07.12.548717</a> (2023).
 
 1. B.H. Good. Limited codiversification of the gut microbiota with humans. <a href="https://doi.org/10.1101/2022.10.27.514143"> biorXiv 2022.10.27.514143</a> (2022).
 
-1. Liu, Z. and B.H. Good. Dynamics of bacterial recombination in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2022.08.24.505183v1">biorXiv 2022.08.24.505183</a> (2022).
+1. Liu, Z. and B.H. Good. <a href="https://www.biorxiv.org/content/10.1101/2022.08.24.505183">Dynamics of bacterial recombination in the human gut microbiome.</a> *PLoS Biology* (in press).
 
-1. Wong, D.P.G.H. and B.H. Good. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573v1.full">Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking.</a> *Nature Communications* (in press).
+1. Wong, D.P.G.H. and B.H. Good. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573">Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking.</a> *Nature Communications* (in press).
 
 1. B.H. Good†, L.B. Rosenfeld☯. Eco-evolutionary feedbacks in the human gut microbiome. *Nature Communications* 74: 7146 (2023).
 
