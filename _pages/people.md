@@ -4,7 +4,7 @@ title: "People"
 classes: wide
 ---
 
-![image-left](/assets/images/bgood_photo_small.jpg){: .align-left}
+![image-left](/assets/images/bgood_photo_2023.png){: .align-left}
 **Benjamin H Good, PhD** <br/>
 Assistant Professor of Applied Physics<br/>
 Stanford University<br/>
@@ -108,7 +108,7 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 # Friends of the lab
 <br/>
 ![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
-**Katherine Xue** <br/>
+**Katherine Xue, PhD** <br/>
 *JSMF Postdoctoral Fellow, Relman and Petrov labs*<br/>
 <small>Katherine is collaborating with the Good lab to investigate within-host evolution and household transmission in the human gut microbiome.<br/>
 *kxue [at] stanford.edu* <br/></small>
