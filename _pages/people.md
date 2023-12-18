@@ -15,6 +15,13 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 <br/>
+![image-left](/assets/images/anarla_photo.png){: .align-left}{: .align-left}
+**Avaneesh Narla** <br/>
+*Stanford Science Fellow*<br/>
+<small>Avaneesh is a Stanford Science Fellow hosted by the Good and Fisher Labs. He is broadly interested in the dynamic adaptation of biological collectives. He is doing this in the context of microbial communities adapting to dynamic resource environments by studying the interplay of ecology and evolution, and in the context of social insects by studying collective behavior and decision-making in response to environmental changes.<br/>
+*avnarla [at] stanford.edu*<br/></small>
+<br/>
+<br/>
 ![image-left](/assets/images/jglopez.jpg){: .align-left}{: .align-left}
 **Jaime Lopez** <br/>
 *Postdoctoral Fellow*<br/>
