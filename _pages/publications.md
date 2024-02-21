@@ -16,7 +16,7 @@ classes: wide
 
 1. B.H. Good. Limited codiversification of the gut microbiota with humans. <a href="https://doi.org/10.1101/2022.10.27.514143"> biorXiv 2022.10.27.514143</a> (2022).
 
-1. Wong, D.P.G.H. and B.H. Good. <a href="https://www.biorxiv.org/content/10.1101/2022.05.13.491573">Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking.</a> *Nature Communications* (in press).
+1. Wong, D.P.G.H. and B.H. Good. Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking. *Nature Communications* 15: 1605 (2024).
 
 1. Liu, Z. and B.H. Good. Dynamics of bacterial recombination in the human gut microbiome. *PLoS Biology* 22(2): e3002472 (2024). 
 
