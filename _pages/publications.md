@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv 2024.02.17.580834</a> (2024).
+
 1. McEnany, J.D. and B.H. Good. Predicting the first steps of evolution in randomly assembled communities. <a href="https://www.biorxiv.org/content/10.1101/2023.12.15.571925"> biorXiv 2023.12.15.571925</a> (2023).
 
 1. Xue, K.S.†, S.J. Walton,  D.A. Goldman☯, M.L. Morrison, A.J. Verster, A.B. Parrott☯, F.B. Yu,  N. Neff,  N.A. Rosenberg,  B.D. Ross,  D.A. Petrov,  K.C. Huang,  B.H. Good†, and D. Relman†. Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation. <a href="https://www.biorxiv.org/content/10.1101/2023.09.26.559480">biorXiv 2023.09.26.559480</a> (2023).
