@@ -81,7 +81,8 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <small>
 Sophie is a graduate student in the Good and Petrov labs. She received her B.S. in Bioengineering with a minor in Information and Data Science from Caltech in 2020. Sophie is currently developing methods for measuring ecological and evolutionary dynamics in longitudinally sampled metagenomes from the rumen microbiome and the human gut. 
 <br/>
-*swalton [at] stanford.edu*<br/></small>
+*swalton [at] stanford.edu*<br/></small><br/>
+<a href="https://sophiejwalton.github.io/">Personal website</a> 
 <br/>
 <br/>
 
