@@ -6,9 +6,8 @@ classes: wide
 
 ![image-left](/assets/images/bgood_photo_2023.png){: .align-left}
 **Benjamin H Good, PhD** <br/>
-Alden H. and Winifred Hubbard Brown Faculty Fellow
-Assistant Professor of Applied Physics and, by courtesy, of Biology 
-Assistant Professor of Applied Physics<br/>
+Alden H. and Winifred Hubbard Brown Faculty Fellow<br/>
+Assistant Professor of Applied Physics and, by courtesy, of Biology <br/>
 and (by courtesy) of Biology<br/>
 Stanford University<br/>
 S244 Clark Center <br/>
