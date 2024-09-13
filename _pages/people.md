@@ -94,7 +94,8 @@ Sophie is a graduate student in the Good and Petrov labs. She received her B.S. 
 <small>
 John received his B.A in Physics from Princeton University in 2021. He is currently developing theory for predicting the initial steps of evolution in large, randomly assembled microbial communities. 
 <br/>
-*jmcenany [at] stanford.edu*<br/></small>
+*jmcenany [at] stanford.edu*<br/></small><br/>
+<a href="https://sites.google.com/view/john-mcenany-research/">Personal website</a> 
 <br/>
 <br/>
 
