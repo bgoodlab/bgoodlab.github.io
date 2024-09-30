@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. J. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2024.09.27.614587">biorxiv 2024.09.27.614587</a> (2024). 
+
 1. Lyulina, A.S.\*, Z. Liu\* and B.H. Good. Linkage equilibrium between rare mutations. *Genetics* (in press) <a href="https://www.biorxiv.org/content/10.1101/2024.03.28.587282">biorXiv version</a> (2024).
 
 1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv 2024.02.17.580834</a> (2024).
