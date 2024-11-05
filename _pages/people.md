@@ -122,8 +122,8 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 
 # Alumni
-Elise VanLuinen, Undergraduate SSRP-Amgen Scholar, Summer 2024.
-Serena Debesai, Undergraduate VPUE STEM Fellow, 2021-2023. Currently a graduate student in the University of Chicago Biophysics PhD Program.
+Elise VanLuinen, Undergraduate SSRP-Amgen Scholar, Summer 2024.<br/>
+Serena Debesai, Undergraduate VPUE STEM Fellow, 2021-2023. Currently a graduate student in the University of Chicago Biophysics PhD Program.<br/>
 Caroline Van, Undergraduate Bio-X Fellow, Summer 2021.<br/>
 Liana Merk, Undergraduate SURF Fellow, Summer 2020. Currently a graduate student in the Harvard Biophysics PhD Program. <br/>
 Layton Rosenfeld, Undergraduate Bio-X Fellow, Summer 2020.<br/> 
