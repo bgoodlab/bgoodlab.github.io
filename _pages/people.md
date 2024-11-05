@@ -24,11 +24,11 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *avnarla [at] stanford.edu*<br/></small>
 <br/>
 <br/>
-![image-left](/assets/images/jglopez.jpg){: .align-left}{: .align-left}
-**Jaime Lopez, PhD** <br/>
+![image-left](/assets/images/jalopez.jpg){: .align-left}{: .align-left}
+**Jaime A. Lopez, PhD** <br/>
 *Postdoctoral Fellow*<br/>
 <small>Jaime is a postdoctoral fellow in the Good and Huang Labs. They carried out their PhD with Ned Wingreen and Mohamed Donia at Princeton, where they studied interactions between microbial communities and the chemical environments they inhabit. Jaime’s current research focuses on the ecological and evolutionary dynamics of bacteriophage in the human gut microbiota.<br/>
-*jglopez [at] stanford.edu*<br/></small>
+*jamie.alc.lopez [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 ![image-left](/assets/images/dwong_photo.png){: .align-left}{: .align-left}
@@ -99,7 +99,7 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 <br/>
 
-![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
+<!-- ![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
 **Serena Debesai** <br/>
 *Undergraduate student in Physics*<br/>
 <small>Serena is a senior studying Math and Physics at Stanford. She is currently studying how migration and environmental variability maintain ecological diversity in  metapopulations.<br/>
@@ -107,7 +107,7 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> --> 
 
 # Friends of the lab
 <br/>
@@ -122,8 +122,10 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 
 # Alumni
+Elise VanLuinen, Undergraduate SSRP-Amgen Scholar, Summer 2024.
+Serena Debesai, Undergraduate VPUE STEM Fellow, 2021-2023. Currently a graduate student in the University of Chicago Biophysics PhD Program.
 Caroline Van, Undergraduate Bio-X Fellow, Summer 2021.<br/>
-Liana Merk, Undergraduate SURF Fellow, Summer 2020. <br/>
+Liana Merk, Undergraduate SURF Fellow, Summer 2020. Currently a graduate student in the Harvard Biophysics PhD Program. <br/>
 Layton Rosenfeld, Undergraduate Bio-X Fellow, Summer 2020.<br/> 
 
 <!--<br/>
