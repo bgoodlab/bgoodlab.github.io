@@ -25,9 +25,9 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 ![image-left](/assets/images/jalopez.jpg){: .align-left}{: .align-left}
-**Jaime A. Lopez, PhD** <br/>
+**Jamie A. Lopez, PhD** <br/>
 *Postdoctoral Fellow*<br/>
-<small>Jaime is a postdoctoral fellow in the Good and Huang Labs. They carried out their PhD with Ned Wingreen and Mohamed Donia at Princeton, where they studied interactions between microbial communities and the chemical environments they inhabit. Jaime’s current research focuses on the ecological and evolutionary dynamics of bacteriophage in the human gut microbiota.<br/>
+<small>Jamie is a postdoctoral fellow in the Good and Huang Labs. They carried out their PhD with Ned Wingreen and Mohamed Donia at Princeton, where they studied interactions between microbial communities and the chemical environment the microbes inhabit. Jamie’s current research focuses on the ecological and evolutionary dynamics of bacteriophage in the human gut microbiota.<br/>
 *jamie.alc.lopez [at] stanford.edu*<br/></small>
 <br/>
 <br/>
