@@ -72,7 +72,8 @@ Olivia is a graduate student in the Good and Petrov labs. She received her Bache
 <small>
 James received his B.S. in International Development, Mathematics, and Physics and M.S. in Physics from Tulane University in 2018. He is currently investigating how large microbial populations select for mutations that alter their local fitness landscape. 
 <br/>
-*jferrare [at] stanford.edu*<br/></small>
+*jferrare [at] stanford.edu*<br/></small><br/>
+<a href="https://jferrare98.github.io/-/">Personal website</a> 
 <br/>
 <br/>
 
