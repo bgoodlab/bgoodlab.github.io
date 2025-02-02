@@ -111,6 +111,18 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 **Daniel Wong** <br/>
 *Graduate student in Applied Physics, 2019-2024.<br/>
 Currently a postdoc at Ecole Normale Supérieure*<br/>
+<!--Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data.-->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/evanluinen_photo.png){: .align-left}{: .align-left}
+**Elise VanLuienen** <br/>
+*Undergraduate SSRP Amgen Scholar, Summer 2024*.<br/>
+<!--Currently a graduate student in the University of Chicago Biophysics PhD Program.*<br/>-->
 <br/>
 <br/>
 <br/>
@@ -136,12 +148,17 @@ Currently a graduate student in the University of Chicago Biophysics PhD Program
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 ![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
 *Undergraduate SURF Fellow, Summer 2020.<br/>
 Currently a graduate student in the Harvard Biophysics PhD Program.*<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -150,28 +167,11 @@ Currently a graduate student in the Harvard Biophysics PhD Program.*<br/>
 *Undergraduate Bio-X Fellow, Summer 2020.*<br/>
 <br/>
 <br/>
-
-Elise VanLuinen, Undergraduate SSRP-Amgen Scholar, Summer 2024.<br/>
-
-<!--<br/>
-<br/>
-![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
-**Liana Merk** <br/>
-*Undergraduate SURF Fellow*<br/>
-<small>Liana is a rising senior at Caltech majoring in Bioengineering. She is currently developing tools for tracking within-host evolution and strain turnover in the rumen microbiome.<br/>
-*lmerk [at] caltech.edu*<br/></small>
-
 <br/>
 <br/>
 <br/>
 <br/>
 
-
-
-%<br/>
-%<br/>
-%<br/>
-%<br/>
-<br/>
+<!--
 ![image-left](/assets/images/genome.png){: .align-left}
 <br/>We are currently looking for new postdocs, graduate students, and undergraduates to join our team. Please visit our <a href="/research/">opportunities page</a> for more details. --> 
