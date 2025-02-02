@@ -113,6 +113,10 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 Currently a postdoc at Ecole Normale Supérieure*<br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
 **Serena Debesai** <br/>
@@ -120,22 +124,34 @@ Currently a postdoc at Ecole Normale Supérieure*<br/>
 Currently a graduate student in the University of Chicago Biophysics PhD Program.*<br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/cvan_photo.jpg){: .align-left}{: .align-left}
+**Caroline Van** <br/>
+*Undergraduate Bio-X Fellow, Summer 2021*<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
-*Undergraduate SURF Fellow*<br/>
-<small>Liana is a rising senior at Caltech majoring in Bioengineering. She is currently developing tools for tracking within-host evolution and strain turnover in the rumen microbiome.<br/>
-*lmerk [at] caltech.edu*<br/></small>
+*Undergraduate SURF Fellow, Summer 2020.<br/>
+Currently a graduate student in the Harvard Biophysics PhD Program.*<br/>
+<br/>
+<br/>
 
+![image-left](/assets/images/lrosenfeld_photo.jpg){: .align-left}{: .align-left}
+**Layton Rosenfeld** <br/>
+*Undergraduate Bio-X Fellow, Summer 2020.*<br/>
 <br/>
 <br/>
 
 Elise VanLuinen, Undergraduate SSRP-Amgen Scholar, Summer 2024.<br/>
-Serena Debesai, Undergraduate VPUE STEM Fellow, 2021-2023. Currently a graduate student in the University of Chicago Biophysics PhD Program.<br/>
-Caroline Van, Undergraduate Bio-X Fellow, Summer 2021.<br/>
-Liana Merk, Undergraduate SURF Fellow, Summer 2020. Currently a graduate student in the Harvard Biophysics PhD Program. <br/>
-Layton Rosenfeld, Undergraduate Bio-X Fellow, Summer 2020.<br/> 
 
 <!--<br/>
 <br/>
@@ -149,21 +165,8 @@ Layton Rosenfeld, Undergraduate Bio-X Fellow, Summer 2020.<br/>
 <br/>
 <br/>
 <br/>
-![image-left](/assets/images/lrosenfeld_photo.jpg){: .align-left}{: .align-left}
-**Layton Rosenfeld** <br/>
-*Undergraduate Bio-X Fellow*<br/>
-<small>Layton is a rising sophomore at Stanford interested in Computational Biology. She is currently investigating the links between short-term evolution and community structure using metagenomic data from the human gut microbiome. <br/>
-*laytonr [at] stanford.edu*<br/></small>
-<br/>
-<br/>
 
-![image-left](/assets/images/cvan_photo.jpg){: .align-left}{: .align-left}
-**Caroline Van** <br/>
-*Undergraduate Bio-X Fellow*<br/>
-<small>Caroline is a sophomore at Stanford interested in Biomedical Computation. She is currently investigating the strain-level dynamics that take placing during fecal microbiome transplants.<br/>
-*cmvan [at] stanford.edu*<br/></small>
-<br/>
-<br/>
+
 
 %<br/>
 %<br/>
