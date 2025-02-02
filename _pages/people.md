@@ -31,13 +31,6 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *jamie.alc.lopez [at] stanford.edu*<br/></small>
 <br/>
 <br/>
-![image-left](/assets/images/dwong_photo.png){: .align-left}{: .align-left}
-**Daniel Wong** <br/>
-*Graduate student in Applied Physics*<br/>
-<small>Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data. <br/>
-*dpwong [at] stanford.edu*<br/></small>
-<br/>
-<br/>
 ![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
 **Zhiru Liu** <br/>
 *Graduate student in Applied Physics*<br/>
@@ -100,16 +93,6 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 <br/>
 
-<!-- ![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
-**Serena Debesai** <br/>
-*Undergraduate student in Physics*<br/>
-<small>Serena is a senior studying Math and Physics at Stanford. She is currently studying how migration and environmental variability maintain ecological diversity in  metapopulations.<br/>
-*sdebesai [at] stanford.edu*<br/></small>
-<br/>
-<br/>
-<br/>
-<br/> --> 
-
 # Friends of the lab
 <br/>
 ![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
@@ -123,6 +106,31 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 
 # Alumni
+
+![image-left](/assets/images/dwong_photo.png){: .align-left}{: .align-left}
+**Daniel Wong** <br/>
+*Graduate student in Applied Physics, 2019-2024.<br/>
+Currently a postdoc at Ecole Normale Supérieure*<br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
+**Serena Debesai** <br/>
+*Undergraduate student in Physics, 2021-2023.<br/>
+Currently a graduate student in the University of Chicago Biophysics PhD Program.*<br/>
+<br/>
+<br/>
+
+
+![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
+**Liana Merk** <br/>
+*Undergraduate SURF Fellow*<br/>
+<small>Liana is a rising senior at Caltech majoring in Bioengineering. She is currently developing tools for tracking within-host evolution and strain turnover in the rumen microbiome.<br/>
+*lmerk [at] caltech.edu*<br/></small>
+
+<br/>
+<br/>
+
 Elise VanLuinen, Undergraduate SSRP-Amgen Scholar, Summer 2024.<br/>
 Serena Debesai, Undergraduate VPUE STEM Fellow, 2021-2023. Currently a graduate student in the University of Chicago Biophysics PhD Program.<br/>
 Caroline Van, Undergraduate Bio-X Fellow, Summer 2021.<br/>
