@@ -6,7 +6,13 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
-1. J. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2024.09.27.614587">biorxiv 2024.09.27.614587</a> (2024). 
+1. K. Husain\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, Wangqiang Liu, B.H. Good, Arvind Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
+
+1. J.A. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. <a href="https://www.biorxiv.org/content/10.1101/2024.09.27.614587">biorxiv 2024.09.27.614587</a> (2024). 
+
+1. D.A. Goldman\*☯, K.S. Xue\*†, A.B. Parrott☯, R.R. Jeeda☯, L.R. Franzese☯,
+J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Competition for shared resources increases dependence on initial population size during coales-
+cence of gut microbial communities. *PNAS* (in press, 2025).
 
 1. Lyulina, A.S.\*, Z. Liu\* and B.H. Good. Linkage equilibrium between rare mutations. *Genetics* iyae145,  <a href="https://doi.org/10.1093/genetics/iyae145">early online</a> (2024).
 
