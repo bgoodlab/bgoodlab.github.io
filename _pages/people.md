@@ -17,6 +17,13 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 <br/>
+![image-left](/assets/images/ashomar_photo.png){: .align-left}{: .align-left}
+**Aseel Shomar, PhD** <br/>
+*SITP Theoretical Biophysics Fellow*<br/>
+<small>Aseel is a postdoctoral fellow in the Good, Huang and Fisher labs. She is broadly interested in adaptation and evolution spanning different biological scales such as the microbiome, cancer progression, and neural networks. She earned her PhD from the Technion - Israel Institute of Technology, where she studied control and learning in biological systems under the guidance of Naama Brenner and Omri Barak.<br/>
+*aseel [at] stanford.edu*<br/></small>
+<br/>
+<br/>
 ![image-left](/assets/images/anarla_photo.png){: .align-left}{: .align-left}
 **Avaneesh Narla, PhD** <br/>
 *Stanford Science Fellow*<br/>
