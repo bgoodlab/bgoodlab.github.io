@@ -52,9 +52,11 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *Graduate student in Biology*<br/>
 <small>Anastasia is a graduate student in the Good and Petrov labs. She received her B.S. in Physics from Saint Petersburg Polytechnic University in 2017, and worked as research assistant in Fyodor Kondrashov's Evolutionary Genomics Group from 2017-2020. Anastasia's current work focuses on the patterns of genetic diversity that arise during selective sweeps. 
 <br/>
-*alyulina [at] stanford.edu*<br/></small>
+*alyulina [at] stanford.edu*<br/></small><br/>
+<a href="https://alyulina.github.io/">Personal website</a> 
 <br/>
 <br/>
+
 
 ![image-left](/assets/images/oghosh_photo.jpg){: .align-left}{: .align-left}
 **Olivia Ghosh** <br/>
