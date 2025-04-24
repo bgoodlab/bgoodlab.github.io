@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. B.H. Good†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* (<a href="https://doi.org/10.1016/j.tim.2025.03.009">in press</a>, 2025). 
+
 1. K. Husain\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, Wangqiang Liu, B.H. Good, Arvind Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
 
 1. J.A. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. *Current Biology* (in press, 2025). <a href="https://www.biorxiv.org/content/10.1101/2024.09.27.614587">biorXiv version</a> 
