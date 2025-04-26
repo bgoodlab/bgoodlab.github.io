@@ -24,6 +24,9 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *aseel [at] stanford.edu*<br/></small>
 <br/>
 <br/>
+<br/>
+
+<br/>
 ![image-left](/assets/images/anarla_photo.png){: .align-left}{: .align-left}
 **Avaneesh Narla, PhD** <br/>
 *Stanford Science Fellow*<br/>
@@ -31,6 +34,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *avnarla [at] stanford.edu*<br/></small>
 <br/>
 <br/>
+
 ![image-left](/assets/images/jalopez_2.jpg){: .align-left}{: .align-left}
 **Jamie A. Lopez, PhD** <br/>
 *Postdoctoral Fellow*<br/>
@@ -38,6 +42,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *jamie.alc.lopez [at] stanford.edu*<br/></small>
 <br/>
 <br/>
+
 ![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
 **Zhiru Liu** <br/>
 *Graduate student in Applied Physics*<br/>
@@ -109,10 +114,8 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A. in Mathematics with a certificate in Applied and Computational Mathematics from Princeton University in 2023. He is currently investigating metapopulation models to explain global patterns of microbial population genetics.
 <br/>
 *djbauman [at] stanford.edu*<br/></small><br/>
-<a href="https://sites.google.com/view/john-mcenany-research/">Personal website</a> 
 <br/>
 <br/>
-
 
 
 <!-- # Friends of the lab
@@ -134,6 +137,7 @@ Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A
 **Katherine Xue, PhD** <br/>
 *Postdoctoral Collaborator, 2020-2025<br/>
 Currently an Assistant Professor at UC Irvine*<br/>
+<a href="https://kxuelab.com/">Lab website</a><br/>
 <br/>
 <br/>
 <br/>
