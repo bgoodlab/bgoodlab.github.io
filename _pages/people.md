@@ -102,7 +102,20 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 <br/>
 
-# Friends of the lab
+![image-left](/assets/images/dbauman_photo.png){: .align-left}{: .align-left}
+**Daniel Bauman** <br/>
+*Graduate student in Computational and Mathematical Engineering*<br/>
+<small>
+Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A. in Mathematics with a certificate in Applied and Computational Mathematics from Princeton University in 2023. He is currently investigating metapopulation models to explain global patterns of microbial population genetics.
+<br/>
+*djbauman [at] stanford.edu*<br/></small><br/>
+<a href="https://sites.google.com/view/john-mcenany-research/">Personal website</a> 
+<br/>
+<br/>
+
+
+
+<!-- # Friends of the lab
 <br/>
 ![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
 **Katherine Xue, PhD** <br/>
@@ -112,9 +125,19 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> --> 
 
 # Alumni
+
+<br/>
+![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
+**Katherine Xue, PhD** <br/>
+*Postdoctoral Collaborator, 2020-2025<br/>
+Currently an Assistant Professor at UC Irvine*<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ![image-left](/assets/images/dwong_photo.png){: .align-left}{: .align-left}
 **Daniel Wong** <br/>
