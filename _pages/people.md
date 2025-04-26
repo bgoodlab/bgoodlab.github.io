@@ -12,7 +12,7 @@ and (by courtesy) of Biology<br/>
 Stanford University<br/>
 S244 Clark Center <br/>
 bhgood@stanford.edu | 650-497-2575 <br/>
-<a href="/assets/pdfs/bgood_cv_240612.pdf">Curriculum vitae</a><br/>
+<a href="/assets/pdfs/bgood_cv_250426.pdf">Curriculum vitae</a><br/>
 <br/>
 <br/>
 <br/>
