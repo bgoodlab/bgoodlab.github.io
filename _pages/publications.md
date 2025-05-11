@@ -15,8 +15,7 @@ classes: wide
 1. J.A. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. *Current Biology* (<a href="https://www.sciencedirect.com/science/article/pii/S0960982225003896?dgcid=coauthor">in press</a>, 2025). 
 
 1. D.A. Goldman\*☯, K.S. Xue\*†, A.B. Parrott☯, R.R. Jeeda☯, L.R. Franzese☯,
-J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Competition for shared resources increases dependence on initial population size during coales-
-cence of gut microbial communities. *PNAS* 122(11): e2322440122 (2025). 
+J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Competition for shared resources increases dependence on initial population size during coalescence of gut microbial communities. *PNAS* 122(11): e2322440122 (2025). 
 
 1. Lyulina, A.S.\*, Z. Liu\* and B.H. Good. Linkage equilibrium between rare mutations. *Genetics* 15(3): iyae145 (2024).
 
