@@ -13,7 +13,6 @@ classes: wide
 1. K. Husain\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, Wangqiang Liu, B.H. Good, Arvind Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
 
 1. J.A. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. *Current Biology* 35(10): 2282-2294.e11 (2025).<br/><br/>
-
 <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00006-5">See Dispatch article by Y. Huang, T. Wang, and Y. Ma.</a> 
 
 1. D.A. Goldman\*☯, K.S. Xue\*†, A.B. Parrott☯, R.R. Jeeda☯, L.R. Franzese☯,
