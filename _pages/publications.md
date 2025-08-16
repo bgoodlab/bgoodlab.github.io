@@ -10,8 +10,6 @@ classes: wide
 
 1. B.H. Good†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* (<a href="https://doi.org/10.1016/j.tim.2025.03.009">in press</a>, 2025). 
 
-1. B.H. Good†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* (<a href="https://doi.org/10.1016/j.tim.2025.03.009">in press</a>, 2025). 
-
 1. O.M. Ghosh, G. Kinsler, B.H. Good, and D.A. Petrov. Low-dimensional genotype-fitness mapping across divergent environments suggests a limiting functions model of fitness. <a href="https://doi.org/10.1101/2025.04.05.647371">biorxiv 2025.04.05.647371</a> (2025).
 
 1. K. Husain\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
