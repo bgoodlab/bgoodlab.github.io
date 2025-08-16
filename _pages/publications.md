@@ -6,6 +6,10 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. M.M. Carter\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, J.L. Sonnenburg†. Prehistoric Global Migration of Vanishing Gut Microbes With Humans. <a href="https://doi.org/10.1101/2025.08.15.670570">biorxiv 2025.08.15.670570</a> (2025).
+
+1. B.H. Good†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* (<a href="https://doi.org/10.1016/j.tim.2025.03.009">in press</a>, 2025). 
+
 1. B.H. Good†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* (<a href="https://doi.org/10.1016/j.tim.2025.03.009">in press</a>, 2025). 
 
 1. O.M. Ghosh, G. Kinsler, B.H. Good, and D.A. Petrov. Low-dimensional genotype-fitness mapping across divergent environments suggests a limiting functions model of fitness. <a href="https://doi.org/10.1101/2025.04.05.647371">biorxiv 2025.04.05.647371</a> (2025).
