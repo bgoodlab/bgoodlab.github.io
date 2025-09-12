@@ -6,7 +6,6 @@ classes: wide
 
 ![image-left](/assets/images/bgood_photo_2023.png){: .align-left}
 **Benjamin H Good, PhD** <br/>
-Alden H. and Winifred Hubbard Brown Faculty Fellow<br/>
 Assistant Professor of Applied Physics<br/>
 and (by courtesy) of Biology<br/>
 Stanford University<br/>
@@ -40,15 +39,6 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 *Postdoctoral Fellow*<br/>
 <small>Jamie is a postdoctoral fellow in the Good and Huang Labs. They carried out their PhD with Ned Wingreen and Mohamed Donia at Princeton, where they studied interactions between microbial communities and the chemical environment the microbes inhabit. Jamie’s current research focuses on the ecological and evolutionary dynamics of bacteriophage in the human gut microbiota.<br/>
 *jamie.alc.lopez [at] stanford.edu*<br/></small>
-<br/>
-<br/>
-
-![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
-**Zhiru Liu** <br/>
-*Graduate student in Applied Physics*<br/>
-<small>Zhiru received his B.S. in Engineering Physics and Mathematics & Computer Science from UIUC in 2019. He is currently investigating the population genetics of ongoing bacterial recombination using metagenomic data from the human gut microbiome.<br/>
-*zhiru [at] stanford.edu*<br/></small><br/>
-<a href="https://zhiru-liu.github.io/">Personal website</a> 
 <br/>
 <br/>
 
@@ -133,6 +123,20 @@ Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A
 # Alumni
 
 <br/>
+![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
+**Zhiru Liu** <br/>
+*Graduate student in Applied Physics, 2019-2025.<br/>
+Currently a postdoc at Memorial Sloan Kettering Cancer Center*<br/>
+<!--Daniel received his B.A. in Physics from Williams College in 2017. He is currently investigating how interference between linked mutations impacts ecological diversification in evolving resource competition models. He is also developing tools for inferring short-term evolutionary forces in vivo using barcoded lineage tracking data.-->
+<!--<small>Zhiru received his B.S. in Engineering Physics and Mathematics & Computer Science from UIUC in 2019. He is currently investigating the population genetics of ongoing bacterial recombination using metagenomic data from the human gut microbiome.<br/>
+*zhiru [at] stanford.edu*<br/></small><br/>-->
+<a href="https://zhiru-liu.github.io/">Personal website</a> 
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
 ![image-left](/assets/images/kxue_photo.jpg){: .align-left}{: .align-left}
 **Katherine Xue, PhD** <br/>
 *Postdoctoral Collaborator, 2020-2025<br/>
@@ -169,7 +173,7 @@ Currently a postdoc at Ecole Normale Supérieure*<br/>
 ![image-left](/assets/images/sdebesai_photo.jpg){: .align-left}{: .align-left}
 **Serena Debesai** <br/>
 *Undergraduate student in Physics, 2021-2023.<br/>
-Currently a graduate student in the University of Chicago Biophysics PhD Program.*<br/>
+Currently an NSF GRFP Fellow in the University of Chicago Biophysics PhD Program.*<br/>
 <br/>
 <br/>
 <br/>
@@ -190,7 +194,7 @@ Currently a graduate student in the University of Chicago Biophysics PhD Program
 ![image-left](/assets/images/lmerk_photo.jpg){: .align-left}{: .align-left}
 **Liana Merk** <br/>
 *Undergraduate SURF Fellow, Summer 2020.<br/>
-Currently a graduate student in the Harvard Biophysics PhD Program.*<br/>
+Currently an NSF GRFP Fellow in the Harvard Biophysics PhD Program.*<br/>
 <br/>
 <br/>
 <br/>

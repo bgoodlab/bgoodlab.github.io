@@ -6,18 +6,20 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
-1. M.M. Carter\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, J.L. Sonnenburg†. Prehistoric Global Migration of Vanishing Gut Microbes With Humans. <a href="https://doi.org/10.1101/2025.08.15.670570">biorxiv 2025.08.15.670570</a> (2025).
+1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://doi.org/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
 
-1. B.H. Good†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* (<a href="https://doi.org/10.1016/j.tim.2025.03.009">in press</a>, 2025). 
+1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. <a href="https://doi.org/10.1101/2025.08.15.670570">biorxiv 2025.08.15.670570</a> (2025).
 
-1. O.M. Ghosh, G. Kinsler, B.H. Good, and D.A. Petrov. Low-dimensional genotype-fitness mapping across divergent environments suggests a limiting functions model of fitness. <a href="https://doi.org/10.1101/2025.04.05.647371">biorxiv 2025.04.05.647371</a> (2025).
+1. Good, B.H.†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* 33(8): 853-865 (2025). 
 
-1. K. Husain\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
+1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Low-dimensional genotype-fitness mapping across divergent environments suggests a limiting functions model of fitness. <a href="https://doi.org/10.1101/2025.04.05.647371">biorxiv 2025.04.05.647371</a> (2025).
 
-1. J.A. Lopez, S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. *Current Biology* 35(10): 2282-2294.e11 (2025).<br/><br/>
+1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
+
+1. Lopez, J.A., S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. *Current Biology* 35(10): 2282-2294.e11 (2025).<br/><br/>
 <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00006-5">See Dispatch article by Y. Huang, T. Wang, and Y. Ma.</a> 
 
-1. D.A. Goldman\*☯, K.S. Xue\*†, A.B. Parrott☯, R.R. Jeeda☯, L.R. Franzese☯,
+1. Goldman, D.A.\*☯, K.S. Xue\*†, A.B. Parrott☯, R.R. Jeeda☯, L.R. Franzese☯,
 J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Competition for shared resources increases dependence on initial population size during coalescence of gut microbial communities. *PNAS* 122(11): e2322440122 (2025). 
 <br/><br/>
 <a href="https://www.pnas.org/doi/10.1073/pnas.2502663122">See commentary article by A. Mitchell and T. Lieberman.</a>
@@ -38,7 +40,7 @@ J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Com
 
 1. Liu, Z. and B.H. Good. Dynamics of bacterial recombination in the human gut microbiome. *PLoS Biology* 22(2): e3002472 (2024). 
 
-1. B.H. Good†, L.B. Rosenfeld☯. Eco-evolutionary feedbacks in the human gut microbiome. *Nature Communications* 74: 7146 (2023).
+1. Good, B.H.† and L.B. Rosenfeld☯. Eco-evolutionary feedbacks in the human gut microbiome. *Nature Communications* 74: 7146 (2023).
 
 1. Dapa, T\*, D.P.G.H.Wong\*, K.S. Vasquez, K.B. Xavier†, K.C. Huang†, and B.H. Good†. Within-host evolution of the gut microbiome.  *Current Opinion in Microbiology* 71: 102258 (2023). 
 
