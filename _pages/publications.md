@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. <a href="https://doi.org/10.1101/2025.09.09.675256">biorxiv 2025.09.15.676408</a> (2025). 
+
 1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://doi.org/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
 
 1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. <a href="https://doi.org/10.1101/2025.08.15.670570">biorxiv 2025.08.15.670570</a> (2025).
