@@ -6,7 +6,7 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
-1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.15.676408">biorxiv 2025.09.15.676408</a> (2025). 
+1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. <a href="/assets/pdfs/wong_good_25_manuscript.pdf">biorxiv 2025.09.15.676408</a> (2025). 
 
 1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
 
