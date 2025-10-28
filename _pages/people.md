@@ -59,7 +59,8 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <small>
 Olivia is a graduate student in the Good and Petrov labs. She received her Bachelors degree in Physics from Columbia University in 2019. Olivia is currently investigating how spatial structure influences the short-term evolution of the gut microbiota. 
 <br/>
-*omghosh [at] stanford.edu*<br/></small>
+*omghosh [at] stanford.edu*<br/></small><br/>
+<a href="https://omghosh.github.io/">Personal website</a> 
 <br/>
 <br/>
 
