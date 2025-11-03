@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. McEnany, J., B.H. Good†, and I Cvijovic†. Dynamics of local B cell migration during affinity maturation in the human tonsil. <a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685876">biorxiv 2025.10.31.685876</a> (2025). 
+
 1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.15.676408">biorxiv 2025.09.15.676408</a> (2025). 
 
 1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
