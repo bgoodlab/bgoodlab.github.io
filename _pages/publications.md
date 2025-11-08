@@ -6,7 +6,7 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
-1. Walton, S.J. Walton, Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
+1. Walton, S.J., Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
 
 1. McEnany, J., B.H. Good†, and I Cvijovic†. Dynamics of local B cell migration during affinity maturation in the human tonsil. <a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685876">biorxiv 2025.10.31.685876</a> (2025). 
 
