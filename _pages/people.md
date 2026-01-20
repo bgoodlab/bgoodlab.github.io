@@ -11,7 +11,7 @@ and (by courtesy) of Biology<br/>
 Stanford University<br/>
 S244 Clark Center <br/>
 bhgood@stanford.edu | 650-497-2575 <br/>
-<a href="/assets/pdfs/bgood_cv_250426.pdf">Curriculum vitae</a><br/>
+<a href="/assets/pdfs/bgood_cv_260120.pdf">Curriculum vitae</a><br/>
 <br/>
 <br/>
 <br/>
@@ -22,15 +22,6 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <small>Aseel is a postdoctoral fellow in the Good, Huang and Fisher labs. She is broadly interested in adaptation and evolution spanning different biological scales such as the microbiome, cancer progression, and neural networks. She earned her PhD from the Technion - Israel Institute of Technology, where she studied control and learning in biological systems under the guidance of Naama Brenner and Omri Barak.<br/>
 *aseel [at] stanford.edu*<br/></small>
 <br/>
-<br/>
-<br/>
-
-<br/>
-![image-left](/assets/images/anarla_photo.png){: .align-left}{: .align-left}
-**Avaneesh Narla, PhD** <br/>
-*Stanford Science Fellow*<br/>
-<small>Avaneesh is a Stanford Science Fellow hosted by the Good and Fisher Labs. He is broadly interested in the dynamic adaptation of biological collectives. He is doing this in the context of microbial communities adapting to dynamic resource environments by studying the interplay of ecology and evolution, and in the context of social insects by studying collective behavior and decision-making in response to environmental changes.<br/>
-*avnarla [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 
@@ -122,6 +113,17 @@ Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A
 <br/> --> 
 
 # Alumni
+
+<br/>
+![image-left](/assets/images/anarla_photo.png){: .align-left}{: .align-left}
+**Avaneesh Narla, PhD** <br/>
+*Stanford Science Fellow, 2023-2025<br/>
+Currently an Assistant Professor at Claremont McKenna College*<br/>
+<a href="https://www.avaneeshnarla.com/">Lab website</a><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <br/>
 ![image-left](/assets/images/zliu_photo.jpg){: .align-left}{: .align-left}
