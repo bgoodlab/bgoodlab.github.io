@@ -16,10 +16,35 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 <br/>
+
+![image-left](/assets/images/apyo_photo.png){: .align-left}{: .align-left}
+**Andrew Pyo, PhD** <br/>
+*Stanford Science Fellow*<br/>
+<small>Andrew is a Stanford Science Fellow hosted by the Good lab, working at the intersection of physics and immunology. His research focuses on developing mathematical models to uncover the fundamental biological principles that govern immune system function. He carried out his PhD with Ned Wingreen at Princeton, where he investigated the physics of biomolecular condensates and developed theoretical models of the adaptive immune system, often in close collaboration with both theorists and experimentalists.
+<br/>
+*agpyo [at] stanford.edu*<br/></small>
+<a href="https://agpyo.github.io/">Personal website</a> 
+<br/>
+<br/>
+<br/>
+
+
+![image-left](/assets/images/fghimenti_photo.png){: .align-left}{: .align-left}
+**Federico Ghimenti, PhD** <br/>
+*SITP Theoretical Biophysics Fellow*<br/>
+<small>Federico is an SITP postdoctoral fellow in the Good, Fisher and Ganguli labs. He is interested in understanding how large ecological communities assemble and evolve under structural constraints such as spatial geometry, strong environmental signals, and sparsity. He earned his PhD in Statistical Physics at Université Paris Cité, where he applied ideas from nonequilibrium thermodynamics to improve sampling of disordered materials.
+<br/>
+*ghimenti [at] stanford.edu*<br/></small>
+<a href="https://federicoghimenti.github.io/">Personal website</a> 
+<br/>
+<br/>
+<br/>
+
+
 ![image-left](/assets/images/ashomar_photo.png){: .align-left}{: .align-left}
 **Aseel Shomar, PhD** <br/>
 *SITP Theoretical Biophysics Fellow*<br/>
-<small>Aseel is a postdoctoral fellow in the Good, Huang and Fisher labs. She is broadly interested in adaptation and evolution spanning different biological scales such as the microbiome, cancer progression, and neural networks. She earned her PhD from the Technion - Israel Institute of Technology, where she studied control and learning in biological systems under the guidance of Naama Brenner and Omri Barak.<br/>
+<small>Aseel is an SITP postdoctoral fellow in the Good, Huang and Fisher labs. She is broadly interested in adaptation and evolution spanning different biological scales such as the microbiome, cancer progression, and neural networks. She earned her PhD from the Technion - Israel Institute of Technology, where she studied control and learning in biological systems under the guidance of Naama Brenner and Omri Barak.<br/>
 *aseel [at] stanford.edu*<br/></small>
 <br/>
 <br/>
@@ -96,6 +121,16 @@ John received his B.A in Physics from Princeton University in 2021. He is curren
 Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A. in Mathematics with a certificate in Applied and Computational Mathematics from Princeton University in 2023. He is currently investigating metapopulation models to explain global patterns of microbial population genetics.
 <br/>
 *djbauman [at] stanford.edu*<br/></small><br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/dliu_photo.png){: .align-left}{: .align-left}
+**Daisy Liu** <br/>
+*Masters student in Computational and Mathematical Engineering*<br/>
+<small>
+Daisy is a masters student in the Computational and Mathematical Engineering program. She is currently developing mathematical models to understand how rapidly evolving populations navigate rugged fitness landscapes. 
+<br/>
+*daisyliu [at] stanford.edu*<br/></small><br/>
 <br/>
 <br/>
 
