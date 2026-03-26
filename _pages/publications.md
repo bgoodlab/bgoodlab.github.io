@@ -6,7 +6,7 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
-1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology*, in press (2026). <a href="https://doi.org/10.1101/2025.04.05.647371">biorxiv version</a>.
+1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology* 24(3): e3003618 (2026).
 
 1. Walton, S.J., Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
 
