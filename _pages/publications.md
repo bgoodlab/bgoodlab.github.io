@@ -8,7 +8,9 @@ classes: wide
 
 1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. *Cell Host & Microbe* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv version</a>
 
-1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology* 24(3): e3003618 (2026).
+1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology* 24(3): e3003618 (2026).<br/><br/>
+<a href="
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003679">See Primer article by K. Udekwu and C. Marx.</a>
 
 1. Walton, S.J., Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
 
