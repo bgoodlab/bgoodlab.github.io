@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. *Cell Host & Microbe* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv version</a>
+
 1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology* 24(3): e3003618 (2026).
 
 1. Walton, S.J., Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
@@ -31,8 +33,6 @@ J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Com
 <a href="https://www.pnas.org/doi/10.1073/pnas.2502663122">See commentary article by A. Mitchell and T. Lieberman.</a>
 
 1. Lyulina, A.S.\*, Z. Liu\* and B.H. Good. Linkage equilibrium between rare mutations. *Genetics* 15(3): iyae145 (2024).
-
-1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv 2024.02.17.580834</a> (2024).
 
 1. McEnany, J.D. and B.H. Good. Predicting the first steps of evolution in randomly assembled communities. *Nature Communications* 15: 8495 (2024). 
 
