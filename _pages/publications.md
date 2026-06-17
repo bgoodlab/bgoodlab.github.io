@@ -6,6 +6,8 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. B.H. Good. Limited codiversification of the gut microbiota within humans. *mBio* in press (2026). <a href="https://doi.org/10.1101/2022.10.27.514143">biorXiv version</a>
+
 1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. *Cell Host & Microbe* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv version</a>
 
 1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology* 24(3): e3003618 (2026).<br/><br/>
@@ -41,8 +43,6 @@ J.A. Lopez, J.C.C. Vila, D.A. Petrov, B.H. Good, D.A. Relman, K.C. Huang†. Com
 1. Xue, K.S.†, S.J. Walton,  D.A. Goldman☯, M.L. Morrison, A.J. Verster, A.B. Parrott☯, F.B. Yu,  N. Neff,  N.A. Rosenberg,  B.D. Ross,  D.A. Petrov,  K.C. Huang,  B.H. Good†, and D. Relman†. Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation. <a href="https://www.biorxiv.org/content/10.1101/2023.09.26.559480">biorXiv 2023.09.26.559480</a> (2023).
 
 1. Ferrare, J.T. and B.H. Good. Evolution of evolvability in rapidly evolving populations. *Nature Ecology & Evolution* 8: 2085–2096 (2024). 
-
-1. B.H. Good. Limited codiversification of the gut microbiota with humans. <a href="https://doi.org/10.1101/2022.10.27.514143"> biorXiv 2022.10.27.514143</a> (2022).
 
 1. Wong, D.P.G.H. and B.H. Good. Quantifying the adaptive landscape of commensal gut bacteria using high-resolution lineage tracking. *Nature Communications* 15: 1605 (2024).
 
