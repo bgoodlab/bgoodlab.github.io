@@ -6,7 +6,11 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. *eLife* 15:<a href="https://elifesciences.org/reviewed-preprints/111215">RP111215</a> (2026). 
+
 1. B.H. Good. Limited codiversification of the gut microbiota within humans. *mBio* in press (2026). <a href="https://doi.org/10.1101/2022.10.27.514143">biorXiv version</a>
+
+1. Lalgudi C.\*,  M. Kotaka\*,  E. Yaffe,  J.A. Lopez,  F.B. Yu,  K. Ng,  J.L. Sonnenburg,  B.H. Good†,  K.C. Huang†,  H. Shi†. Path-dependent recovery of the gut microbiome after antibiotics emerges from coupled ecological and evolutionary dynamics. <a href="https://www.biorxiv.org/content/10.64898/2026.05.22.727306v1">biorXiv 2026.05.22.727306</a> (2026).
 
 1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. *Cell Host & Microbe* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv version</a>
 
@@ -17,8 +21,6 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003679">S
 1. Walton, S.J., Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
 
 1. McEnany, J., B.H. Good†, and I Cvijovic†. Dynamics of local B cell migration during affinity maturation in the human tonsil. <a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685876">biorxiv 2025.10.31.685876</a> (2025). 
-
-1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.15.676408">biorxiv 2025.09.15.676408</a> (2025). 
 
 1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
 
