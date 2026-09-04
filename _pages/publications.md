@@ -6,9 +6,15 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. McEnany, J.D. and B.H. Good. Rapid evolution can select for fitness tradeoffs in fluctuating environments. <a href="https://www.biorxiv.org/content/10.64898/2026.09.01.748641v1">biorXiv 2026.09.01.748641</a> (2026).
+
+1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. *Nature Communications* in press (2026) <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv version</a> 
+
+1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. *Nature* in press (2026). <a href="https://doi.org/10.1101/2025.08.15.670570">biorXiv version</a>
+
 1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. *eLife* 15:<a href="https://elifesciences.org/reviewed-preprints/111215">RP111215</a> (2026). 
 
-1. B.H. Good. Limited codiversification of the gut microbiota within humans. *mBio* in press (2026). <a href="https://doi.org/10.1101/2022.10.27.514143">biorXiv version</a>
+1. B.H. Good. Limited codiversification of the gut microbiota within humans. *mBio* 17:e03727-25 (2026). 
 
 1. Lalgudi C.\*,  M. Kotaka\*,  E. Yaffe,  J.A. Lopez,  F.B. Yu,  K. Ng,  J.L. Sonnenburg,  B.H. Good†,  K.C. Huang†,  H. Shi†. Path-dependent recovery of the gut microbiome after antibiotics emerges from coupled ecological and evolutionary dynamics. <a href="https://www.biorxiv.org/content/10.64898/2026.05.22.727306v1">biorXiv 2026.05.22.727306</a> (2026).
 
@@ -24,11 +30,7 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003679">S
 
 1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
 
-1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. <a href="https://doi.org/10.1101/2025.08.15.670570">biorxiv 2025.08.15.670570</a> (2025).
-
 1. Good, B.H.†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* 33(8): 853-865 (2025). 
-
-1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv 2024.10.14.618309</a> (2024). 
 
 1. Lopez, J.A., S. McKeithen-Mead,  H. Shi, T. Nguyen, K.C. Huang†, and B.H. Good†. Abundance measurements reveal the balance between lysis and lysogeny in the human gut microbiome. *Current Biology* 35(10): 2282-2294.e11 (2025).<br/><br/>
 <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)00006-5">See Dispatch article by Y. Huang, T. Wang, and Y. Ma.</a> 
