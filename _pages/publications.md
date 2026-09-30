@@ -6,9 +6,11 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
+1. Liu, Z. and B.H. Good. Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria. *PLoS Biology* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv version</a> 
+
 1. McEnany, J.D. and B.H. Good. Rapid evolution can select for fitness tradeoffs in fluctuating environments. <a href="https://www.biorxiv.org/content/10.64898/2026.09.01.748641v1">biorXiv 2026.09.01.748641</a> (2026).
 
-1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. *Nature Communications* in press (2026) <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv version</a> 
+1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. *Nature Communications* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv version</a> 
 
 1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. *Nature* in press (2026). <a href="https://doi.org/10.1101/2025.08.15.670570">biorXiv version</a>
 
@@ -27,8 +29,6 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003679">S
 1. Walton, S.J., Q. Xu, R. Sharma, H.R. Gellert, C. Yeh, J. Cremer,  K.S Xue, D.A. Petrov†, and B.H. Good†. Community coalescence reveals strong selection and coexistence within species in complex microbial communities. <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.687011">biorxiv 2025.11.06.687011</a> (2025). 
 
 1. McEnany, J., B.H. Good†, and I Cvijovic†. Dynamics of local B cell migration during affinity maturation in the human tonsil. <a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685876">biorxiv 2025.10.31.685876</a> (2025). 
-
-1. Liu, Z. and B.H. Good. Dynamics of dN/dS within recombining bacterial populations. <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv 2025.09.09.675256</a> (2025).
 
 1. Good, B.H.†, A.S. Bhatt, and M.J. McDonald†. Unraveling the tempo and mode of horizontal gene transfer in bacteria. *Trends in Microbiology* 33(8): 853-865 (2025). 
 
