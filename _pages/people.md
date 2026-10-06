@@ -69,17 +69,6 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 
 
-![image-left](/assets/images/oghosh_photo.jpg){: .align-left}{: .align-left}
-**Olivia Ghosh** <br/>
-*Graduate student in Physics*<br/>
-<small>
-Olivia is a graduate student in the Good and Petrov labs. She received her Bachelors degree in Physics from Columbia University in 2019. Olivia is currently investigating how spatial structure influences the short-term evolution of the gut microbiota. 
-<br/>
-*omghosh [at] stanford.edu*<br/></small><br/>
-<a href="https://omghosh.github.io/">Personal website</a> 
-<br/>
-<br/>
-
 ![image-left](/assets/images/jferrare_photo.png){: .align-left}{: .align-left}
 **James Ferrare** <br/>
 *Graduate student in Biophysics*<br/>
@@ -91,17 +80,6 @@ James received his B.S. in International Development, Mathematics, and Physics a
 <br/>
 <br/>
 
-
-![image-left](/assets/images/swalton_photo.jpg){: .align-left}{: .align-left}
-**Sophie Walton** <br/>
-*Graduate student in Biophysics*<br/>
-<small>
-Sophie is a graduate student in the Good and Petrov labs. She received her B.S. in Bioengineering with a minor in Information and Data Science from Caltech in 2020. Sophie is currently developing methods for measuring ecological and evolutionary dynamics in longitudinally sampled metagenomes from the rumen microbiome and the human gut. 
-<br/>
-*swalton [at] stanford.edu*<br/></small><br/>
-<a href="https://sophiejwalton.github.io/">Personal website</a> 
-<br/>
-<br/>
 
 ![image-left](/assets/images/jmcenany_photo.jpg){: .align-left}{: .align-left}
 **John McEnany** <br/>
@@ -124,15 +102,56 @@ Daniel is a graduate student in the Good and Rosenberg labs. He received his B.A
 <br/>
 <br/>
 
-![image-left](/assets/images/dliu_photo.png){: .align-left}{: .align-left}
-**Daisy Liu** <br/>
-*Masters student in Computational and Mathematical Engineering*<br/>
+![image-left](/assets/images/aasikainen_photo.png){: .align-left}{: .align-left}
+**Antti Asikainen** <br/>
+*Graduate student in Applied Physics*<br/>
 <small>
-Daisy is a masters student in the Computational and Mathematical Engineering program. She is currently developing mathematical models to understand how rapidly evolving populations navigate rugged fitness landscapes. 
+Antti is a graduate student in the Good lab. He earned in B.S. in Physics from MIT in 2025. Antti is currently developing theory to predict the outcomes of whole community collisions in complex microbial communities.
 <br/>
-*daisyliu [at] stanford.edu*<br/></small><br/>
+*anttiasi [at] stanford.edu*<br/></small><br/>
 <br/>
 <br/>
+
+![image-left](/assets/images/jzhou_photo.png){: .align-left}{: .align-left}
+**Jello Zhou** <br/>
+*Graduate student in Biophysics*<br/>
+<small>
+Jello is a graduate student in the Good lab. They earned their BA in physics, with a minor in quantitative and computational biology, from Princeton in 2025. Jello's current work focuses on the dynamics of bacterial pangenomes, as well as other strategies microbes use to adapt to fluctuating environments.
+<br/>
+*jelzhou [at] stanford.edu*<br/></small><br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/jliang_photo.png){: .align-left}{: .align-left}
+**Jess Liang** <br/>
+*Graduate student in Biophysics*<br/>
+<small>
+Jess is a graduate student in the Good and Huang labs. She earned her A.B. in Applied Math from Harvard in 2025. Jess is currently developing experiments for mapping and evolving colonization ability in in vitro gut communities.
+<br/>
+*liangjk [at] stanford.edu*<br/></small><br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+**Quan Manh Nguyen** <br/>
+*Graduate student in Applied Physics*<br/>
+<small>
+Quan is a graduate student in the Good and Cremer labs. He earned his B.S. in Physics from MIT in 2025. Quan is currently developing theory to predict how bacteria compete and coexist with each other in spatiotemporally fluctuating environments like the human gut. 
+<br/>
+*nmquan [at] stanford.edu*<br/></small><br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/fkavishe_photo.png){: .align-left}{: .align-left}
+**Faith Fransisca Kavishe** <br/>
+*MERIT Program Fellow*<br/>
+<small>
+Faith completed her masters degree in biotechnology from the Namibia University of Science and Technology. She is currently studying 16S genetic diversity in the rhizosphere. She is also comparing species boundaries using both 16S and metagenomic data. 
+<br/>
+<!--*nmquan [at] stanford.edu*<br/></small><br/>-->
+<br/>
+<br/>
+
 
 
 <!-- # Friends of the lab
@@ -148,6 +167,48 @@ Daisy is a masters student in the Computational and Mathematical Engineering pro
 <br/> --> 
 
 # Alumni
+
+![image-left](/assets/images/oghosh_photo.jpg){: .align-left}{: .align-left}
+**Olivia Ghosh** <br/>
+*Graduate student in Physics*<br/>
+*Currently an NITMB Postdoctoral Fellow at the University of Chicago*</br>
+<!--<small>
+Olivia is a graduate student in the Good and Petrov labs. She received her Bachelors degree in Physics from Columbia University in 2019. Olivia is currently investigating how spatial structure influences the short-term evolution of the gut microbiota. 
+<br/>
+*omghosh [at] stanford.edu*<br/></small><br/>--> 
+<a href="https://omghosh.github.io/">Personal website</a> 
+<br/>
+<br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/swalton_photo.jpg){: .align-left}{: .align-left}
+**Sophie Walton** <br/>
+*Graduate student in Biophysics*<br/>
+*Currently a postdoc at New York University*<br/>
+<!--<small>
+Sophie is a graduate student in the Good and Petrov labs. She received her B.S. in Bioengineering with a minor in Information and Data Science from Caltech in 2020. Sophie is currently developing methods for measuring ecological and evolutionary dynamics in longitudinally sampled metagenomes from the rumen microbiome and the human gut. 
+<br/>
+*swalton [at] stanford.edu*<br/></small><br/>--> 
+<a href="https://sophiejwalton.github.io/">Personal website</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![image-left](/assets/images/dliu_photo.png){: .align-left}{: .align-left}
+**Daisy Liu** <br/>
+*Masters student in Computational and Mathematical Engineering, 2025-2026*<br/>
+*Currently a graduate student at the UCLA Biomathematics PhD program*<br/>
+<!--<small>
+Daisy is a masters student in the Computational and Mathematical Engineering program. She is currently developing mathematical models to understand how rapidly evolving populations navigate rugged fitness landscapes. 
+<br/>
+*daisyliu [at] stanford.edu*<br/></small><br/>-->
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <br/>
 ![image-left](/assets/images/anarla_photo.png){: .align-left}{: .align-left}
