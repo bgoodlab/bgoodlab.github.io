@@ -151,6 +151,9 @@ Faith completed her masters degree in biotechnology from the Namibia University 
 <!--*nmquan [at] stanford.edu*<br/></small><br/>-->
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -171,12 +174,13 @@ Faith completed her masters degree in biotechnology from the Namibia University 
 ![image-left](/assets/images/oghosh_photo.jpg){: .align-left}{: .align-left}
 **Olivia Ghosh** <br/>
 *Graduate student in Physics*<br/>
-*Currently an NITMB Postdoctoral Fellow at the University of Chicago*</br>
+*Currently an NITMB Postdoctoral Fellow at the University of Chicago*<br/>
 <!--<small>
 Olivia is a graduate student in the Good and Petrov labs. She received her Bachelors degree in Physics from Columbia University in 2019. Olivia is currently investigating how spatial structure influences the short-term evolution of the gut microbiota. 
 <br/>
 *omghosh [at] stanford.edu*<br/></small><br/>--> 
 <a href="https://omghosh.github.io/">Personal website</a> 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -191,6 +195,7 @@ Sophie is a graduate student in the Good and Petrov labs. She received her B.S. 
 <br/>
 *swalton [at] stanford.edu*<br/></small><br/>--> 
 <a href="https://sophiejwalton.github.io/">Personal website</a>
+<br/>
 <br/>
 <br/>
 <br/>
