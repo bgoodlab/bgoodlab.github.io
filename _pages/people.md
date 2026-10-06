@@ -132,7 +132,7 @@ Jess is a graduate student in the Good and Huang labs. She earned her A.B. in Ap
 <br/>
 <br/>
 
-![image-left](/assets/images/genome.png){: .align-left}{: .align-left}
+![image-left](/assets/images/qnguyen_photo.png){: .align-left}{: .align-left}
 **Quan Manh Nguyen** <br/>
 *Graduate student in Applied Physics*<br/>
 <small>
