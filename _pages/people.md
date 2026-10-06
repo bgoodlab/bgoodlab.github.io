@@ -133,10 +133,10 @@ Jess is a graduate student in the Good and Huang labs. She earned her A.B. in Ap
 <br/>
 
 ![image-left](/assets/images/qnguyen_photo.png){: .align-left}{: .align-left}
-**Quan Manh Nguyen** <br/>
+**Manh-Quan Nguyen** <br/>
 *Graduate student in Applied Physics*<br/>
 <small>
-Quan is a graduate student in the Good and Cremer labs. He earned his B.S. in Physics from MIT in 2025. Quan is currently developing theory to predict how bacteria compete and coexist with each other in spatiotemporally fluctuating environments like the human gut. 
+Quan is a graduate student in the Good and Cremer labs. He earned his B.S. in Physics and Mathematics from MIT in 2025. Quan is currently developing theory to predict how bacteria adapt, compete, and coexist with each other in spatiotemporally fluctuating environments like the human gut. 
 <br/>
 *nmquan [at] stanford.edu*<br/></small><br/>
 <br/>
