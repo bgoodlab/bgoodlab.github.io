@@ -27,7 +27,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 
-![image-left](/assets/images/oukobu_photo.png){: .align-left}{: .align-left}
+![image-left](/assets/images/oukogu_photo.png){: .align-left}{: .align-left}
 **Obinna Ukogu, PhD** <br/>
 *Urbanek-Chodorow Fellow*<br/>
 <small>Obinna is an Urbanek-Chodorow postdoctoral fellow in the Fisher and Good labs. He is broadly interested in immunology and microbial ecology, using theory, data analysis and simulations to understand the drivers of variability in immune responses. He earned his Ph.D. in Applied Mathematics under the supervision of Armita Nourmohammad at the University of Washington, where he modeled signal processing in the T cell response, T-cell-driven control of the gut microbiota, and colorectal cancer initiation.
