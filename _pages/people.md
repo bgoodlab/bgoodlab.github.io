@@ -17,6 +17,26 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 <br/>
 <br/>
 
+![image-left](/assets/images/qyu_photo.png){: .align-left}{: .align-left}
+**Qiwei Yu, PhD** <br/>
+*LITP Theoretical Biophysics Fellow*<br/>
+<small>Qiwei is an LITP postdoctoral fellow in the Good, Fisher and Ganguli labs. He is broadly interested in applying nonequilibrium statistical mechanics to the study of living systems, ranging from molecular and cellular processes to learning and adaptation. He received Ph.D. in Biophysics from Princeton University, co-advised by Andrej Košmrlj and Ned Wingreen, and B.S. in Physics from Peking University, supervised by Yuhai Tu.
+<br/>
+*qiweiyu [at] stanford.edu*<br/></small>
+<a href="https://qiweiyuu.github.io//">Personal website</a> 
+<br/>
+<br/>
+
+![image-left](/assets/images/oukobu_photo.png){: .align-left}{: .align-left}
+**Obinna Ukogu, PhD** <br/>
+*Urbanek-Chodorow Fellow*<br/>
+<small>Obinna is an Urbanek-Chodorow postdoctoral fellow in the Fisher and Good labs. He is broadly interested in immunology and microbial ecology, using theory, data analysis and simulations to understand the drivers of variability in immune responses. He earned his Ph.D. in Applied Mathematics under the supervision of Armita Nourmohammad at the University of Washington, where he modeled signal processing in the T cell response, T-cell-driven control of the gut microbiota, and colorectal cancer initiation.
+<br/>
+*oukogu [at] stanford.edu*<br/></small>
+<a href="https://obinna-ukogu.github.io/">Personal website</a> 
+<br/>
+<br/>
+
 ![image-left](/assets/images/apyo_photo.png){: .align-left}{: .align-left}
 **Andrew Pyo, PhD** <br/>
 *Stanford Science Fellow*<br/>
@@ -31,7 +51,7 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 
 ![image-left](/assets/images/fghimenti_photo.png){: .align-left}{: .align-left}
 **Federico Ghimenti, PhD** <br/>
-*SITP Theoretical Biophysics Fellow*<br/>
+*LITP Theoretical Biophysics Fellow*<br/>
 <small>Federico is an SITP postdoctoral fellow in the Good, Fisher and Ganguli labs. He is interested in understanding how large ecological communities assemble and evolve under structural constraints such as spatial geometry, strong environmental signals, and sparsity. He earned his PhD in Statistical Physics at Université Paris Cité, where he applied ideas from nonequilibrium thermodynamics to improve sampling of disordered materials.
 <br/>
 *ghimenti [at] stanford.edu*<br/></small>
@@ -43,14 +63,14 @@ bhgood@stanford.edu | 650-497-2575 <br/>
 
 ![image-left](/assets/images/ashomar_photo.png){: .align-left}{: .align-left}
 **Aseel Shomar, PhD** <br/>
-*SITP Theoretical Biophysics Fellow*<br/>
+*LITP Theoretical Biophysics Fellow*<br/>
 <small>Aseel is an SITP postdoctoral fellow in the Good, Huang and Fisher labs. She is broadly interested in adaptation and evolution spanning different biological scales such as the microbiome, cancer progression, and neural networks. She earned her PhD from the Technion - Israel Institute of Technology, where she studied control and learning in biological systems under the guidance of Naama Brenner and Omri Barak.<br/>
 *aseel [at] stanford.edu*<br/></small>
 <br/>
 <br/>
 <br/>
 
-![image-left](/assets/images/jalopez_2.jpg){: .align-left}{: .align-left}
+![image-left](/assets/images/jalopez_photo.png){: .align-left}{: .align-left}
 **Jamie A. Lopez, PhD** <br/>
 *Postdoctoral Fellow*<br/>
 <small>Jamie is a postdoctoral fellow in the Good and Huang Labs. They carried out their PhD with Ned Wingreen and Mohamed Donia at Princeton, where they studied interactions between microbial communities and the chemical environment the microbes inhabit. Jamie’s current research focuses on the ecological and evolutionary dynamics of bacteriophage in the human gut microbiota.<br/>
