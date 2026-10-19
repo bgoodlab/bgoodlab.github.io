@@ -162,6 +162,17 @@ Quan is a graduate student in the Good and Cremer labs. He earned his B.S. in Ph
 <br/>
 <br/>
 
+![image-left](/assets/images/jneumann_photo.png){: .align-left}{: .align-left}
+**Julius Neumann** <br/>
+*Undergraduate student in Engineering Physics*<br/>
+<small>
+Julius is an undergraduate student in the Engineering Physics major. He is currently using theory and computer simulations to model strain-level dynamics in whole-community collisions.
+<br/>
+*njulius [at] stanford.edu*<br/></small><br/>
+<br/>
+<br/>
+<br/>
+
 ![image-left](/assets/images/fkavishe_photo.png){: .align-left}{: .align-left}
 **Faith Fransisca Kavishe** <br/>
 *MERIT Program Fellow*<br/>

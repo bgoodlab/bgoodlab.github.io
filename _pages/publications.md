@@ -6,13 +6,15 @@ classes: wide
 
 \*=co-first authors, †=corresponding authors, ☯=undergraduate author
 
-1. Liu, Z. and B.H. Good. Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria. *PLoS Biology* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2025.09.09.675256">biorxiv version</a> 
+1. Liu, Z. and B.H. Good. Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria. *PLoS Biology* 24(10): e3004052 (2026). 
 
 1. McEnany, J.D. and B.H. Good. Rapid evolution can select for fitness tradeoffs in fluctuating environments. <a href="https://www.biorxiv.org/content/10.64898/2026.09.01.748641v1">biorXiv 2026.09.01.748641</a> (2026).
 
 1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. *Nature Communications* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv version</a> 
 
-1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. *Nature* in press (2026). <a href="https://doi.org/10.1101/2025.08.15.670570">biorXiv version</a>
+1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. *Nature* in press (2026). <a href="https://doi.org/10.1038/s41586-026-11106-1">early online</a>
+<br/><br/>
+<a href="https://www.nature.com/articles/d41586-026-02969-5">See News and Views article by C.M. Schlebusch and M. Vukovikj.</a>
 
 1. Wong, D.P.G.H. and B.H. Good. Ecological diversification in rapidly evolving populations. *eLife* 15:<a href="https://elifesciences.org/reviewed-preprints/111215">RP111215</a> (2026). 
 
@@ -20,7 +22,7 @@ classes: wide
 
 1. Lalgudi C.\*,  M. Kotaka\*,  E. Yaffe,  J.A. Lopez,  F.B. Yu,  K. Ng,  J.L. Sonnenburg,  B.H. Good†,  K.C. Huang†,  H. Shi†. Path-dependent recovery of the gut microbiome after antibiotics emerges from coupled ecological and evolutionary dynamics. <a href="https://www.biorxiv.org/content/10.64898/2026.05.22.727306v1">biorXiv 2026.05.22.727306</a> (2026).
 
-1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. *Cell Host & Microbe* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.02.17.580834">biorXiv version</a>
+1. Vasquez, K.S.\*, D.P.G.H. Wong\*, M.F. Pedro,  F.B. Yu,  S. Jain, X. Meng, S.K. Higginbottom, B.C. DeFelice,  N. Neff, A.S. Bhatt,  C. Tropini,  K.B. Xavier, J.L. Sonnenburg†, B.H. Good†, and K.C. Huang†. Within-host evolution and strain transmission of a human gut symbiont across ecological scales. *Cell Host & Microbe* 34(10): 1998-2013.e16 (2026). 
 
 1. Ghosh, O.M., G. Kinsler, B.H. Good, and D.A. Petrov. Genotype-fitness mapping of adaptive mutants reveals shifting low-dimensional structure across divergent environments. *PLoS Biology* 24(3): e3003618 (2026).<br/><br/>
 <a href="
