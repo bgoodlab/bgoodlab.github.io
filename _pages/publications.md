@@ -12,7 +12,7 @@ classes: wide
 
 1. Husain K.\*, V. Sachdeva\*, R. Ravasio, M. Peruzzo, W. Liu, B.H. Good, A. Murugan. Direct and indirect selection in a proofreading polymerase. *Nature Communications* in press (2026). <a href="https://www.biorxiv.org/content/10.1101/2024.10.14.618309">biorxiv version</a> 
 
-1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. *Nature* in press (2026). <a href="https://doi.org/10.1038/s41586-026-11106-1">early online</a>
+1. Carter, M.M.\*, Z. Liu\*, M.R. Olm\*, M. Martin, D.D. Sprockett, B.C. Trumble, H. Kaplan, J. Stieglitz, D.E. Rodriguez, D.A. Relman, E.D. Sonnenburg, M. Gurven, B.H. Good†, and J.L. Sonnenburg†. Prehistoric global migration of vanishing gut microbes with humans. *Nature* 658, 1008–1014 (2026). 
 <br/><br/>
 <a href="https://www.nature.com/articles/d41586-026-02969-5">See News and Views article by C.M. Schlebusch and M. Vukovikj.</a>
 
